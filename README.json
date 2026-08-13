@@ -28,7 +28,7 @@
             "last_commit": "2026-08-10T22:53:46Z",
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21356
+            "stars": 21365
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2025-01-20T01:57:40Z",
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11288
+            "stars": 11287
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2019-02-18T14:01:51Z",
             "owner": "xtoolkit",
             "repo": "Micon",
-            "stars": 198
+            "stars": 199
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-02T01:27:31Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25611
+            "stars": 25617
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-05-18T06:50:14Z",
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15376
+            "stars": 15378
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-01T19:06:48Z",
             "owner": "gilbarbara",
             "repo": "logos",
-            "stars": 6802
+            "stars": 6804
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2024-11-19T03:16:13Z",
             "owner": "rsms",
             "repo": "inter",
-            "stars": 19797
+            "stars": 19799
           }
         },
         {
@@ -247,7 +247,7 @@
             "last_commit": "2020-12-16T10:22:30Z",
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5142
+            "stars": 5141
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-06-02T19:25:48Z",
             "owner": "salesforce-ux",
             "repo": "design-system",
-            "stars": 3699
+            "stars": 3700
           }
         },
         {
@@ -407,7 +407,7 @@
             "last_commit": "2023-03-12T21:23:44Z",
             "owner": "floriankarsten",
             "repo": "space-grotesk",
-            "stars": 1812
+            "stars": 1813
           }
         },
         {
@@ -449,7 +449,7 @@
             "last_commit": "2024-08-10T04:57:15Z",
             "owner": "jpt",
             "repo": "barlow",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -533,7 +533,7 @@
             "last_commit": "2025-09-02T23:55:13Z",
             "owner": "impallari",
             "repo": "Libre-Franklin",
-            "stars": 424
+            "stars": 425
           }
         },
         {
@@ -617,7 +617,7 @@
             "last_commit": "2023-04-05T08:19:54Z",
             "owner": "w3f",
             "repo": "unbounded",
-            "stars": 195
+            "stars": 194
           }
         },
         {
@@ -791,7 +791,7 @@
             "last_commit": "2022-03-07T08:49:52Z",
             "owner": "edwardtufte",
             "repo": "et-book",
-            "stars": 1418
+            "stars": 1416
           }
         },
         {
@@ -805,7 +805,7 @@
             "last_commit": "2024-03-16T07:42:41Z",
             "owner": "georgd",
             "repo": "EB-Garamond",
-            "stars": 1065
+            "stars": 1067
           }
         },
         {
@@ -1162,7 +1162,7 @@
             "last_commit": "2026-07-28T17:02:16Z",
             "owner": "tonsky",
             "repo": "FiraCode",
-            "stars": 81922
+            "stars": 81923
           }
         },
         {
@@ -1176,7 +1176,7 @@
             "last_commit": "2025-03-06T03:26:32Z",
             "owner": "microsoft",
             "repo": "cascadia-code",
-            "stars": 27834
+            "stars": 27838
           }
         },
         {
@@ -1218,7 +1218,7 @@
             "last_commit": "2025-09-08T22:22:24Z",
             "owner": "intel",
             "repo": "intel-one-mono",
-            "stars": 9933
+            "stars": 9932
           }
         },
         {
@@ -1330,7 +1330,7 @@
             "last_commit": "2026-03-21T10:01:37Z",
             "owner": "0xType",
             "repo": "0xProto",
-            "stars": 2760
+            "stars": 2761
           }
         },
         {
@@ -1358,7 +1358,7 @@
             "last_commit": "2026-07-23T18:37:35Z",
             "owner": "evilmartians",
             "repo": "mono",
-            "stars": 2712
+            "stars": 2713
           }
         },
         {
@@ -1504,7 +1504,7 @@
             "last_commit": "2026-08-13T03:23:28Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22618
+            "stars": 22617
           }
         },
         {
@@ -1692,7 +1692,7 @@
             "last_commit": "2022-09-23T09:37:01Z",
             "owner": "vegaprotocol",
             "repo": "alpha-lyrae",
-            "stars": 219
+            "stars": 220
           }
         },
         {
@@ -1854,7 +1854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:09:55.783Z",
+    "last_updated": "2026-08-13T22:24:24.263Z",
     "original_repository": "oscarotero/awesome-design",
     "original_repository_sha": "6939b2d8ee85085d6b5112fcea942f35e23cb16c",
     "enhanced_repository": "enhansome/enhansome-design",
