@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20270252,
             "language": "JavaScript",
             "last_commit": "2025-03-11T02:18:59Z",
             "owner": "feathericons",
             "repo": "feather",
-            "stars": 25976
+            "stars": 25977
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243546335,
             "language": "JavaScript",
             "last_commit": "2026-08-17T12:38:29Z",
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21414
+            "stars": 21422
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21314224,
             "language": null,
             "last_commit": "2025-01-20T01:57:40Z",
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11287
+            "stars": 11286
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155437620,
             "language": "TypeScript",
             "last_commit": "2023-03-04T01:54:54Z",
             "owner": "akveo",
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39126489,
             "language": null,
             "last_commit": "2022-10-10T12:44:37Z",
             "owner": "danklammer",
             "repo": "bytesize-icons",
-            "stars": 3909
+            "stars": 3910
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107711917,
             "language": "JavaScript",
             "last_commit": "2022-12-07T18:58:51Z",
             "owner": "mikolajdobrucki",
@@ -94,24 +100,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42330298,
             "language": "CSS",
             "last_commit": "2019-02-18T14:01:51Z",
             "owner": "xtoolkit",
             "repo": "Micon",
             "stars": 199
           }
-        },
-        {
-          "node_type": "item",
-          "title": "michaelampr/jam",
-          "description": "Set of icons designed for web projects, illustrations, print projects, etc",
-          "children": []
         }
       ],
       "title": "SVG Icons"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -120,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6720403,
             "language": "JavaScript",
             "last_commit": "2026-08-02T01:27:31Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25634
+            "stars": 25640
           }
         },
         {
@@ -134,11 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88214511,
             "language": "Python",
             "last_commit": "2026-05-18T06:50:14Z",
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15378
+            "stars": 15379
           }
         },
         {
@@ -148,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37291982,
             "language": "SVG",
             "last_commit": "2026-08-15T21:19:03Z",
             "owner": "gilbarbara",
             "repo": "logos",
-            "stars": 6807
+            "stars": 6808
           }
         },
         {
@@ -162,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6583352,
             "language": null,
             "last_commit": "2025-10-13T03:11:27Z",
             "owner": "alrra",
@@ -176,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 50413123,
             "language": "JavaScript",
             "last_commit": "2020-04-25T02:48:24Z",
             "owner": "kogg",
@@ -190,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48603739,
             "language": "HTML",
             "last_commit": "2017-02-18T17:39:48Z",
             "owner": "larsenwork",
@@ -201,1661 +208,1784 @@
       "title": "Logos"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Fonts"
-    },
-    {
-      "description": "",
+      "description": ":+1: Available as variable font",
       "items": [
         {
-          "node_type": "item",
-          "title": "Inter",
-          "description": "The Inter UI font family http://rsms.me/inter/ :+1:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-19T03:16:13Z",
-            "owner": "rsms",
-            "repo": "inter",
-            "stars": 19817
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IBM Plex",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-07-30T11:29:25Z",
-            "owner": "IBM",
-            "repo": "plex",
-            "stars": 11574
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fira (FirefoxOS)",
-          "description": "Mozilla's new typeface, used in Firefox OS",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "CSS",
-            "last_commit": "2020-12-16T10:22:30Z",
-            "owner": "mozilla",
-            "repo": "Fira",
-            "stars": 5141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Public Sans",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-06T21:21:44Z",
-            "owner": "uswds",
-            "repo": "public-sans",
-            "stars": 4734
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iA Writer Duospace",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-06-16T16:21:57Z",
-            "owner": "iaolo",
-            "repo": "iA-Fonts",
-            "stars": 4136
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Roboto (Android)",
-          "description": "Googles's UI font used in Android",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-04-01T16:56:26Z",
-            "owner": "googlefonts",
-            "repo": "roboto-2",
-            "stars": 3828
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Salesforce Sans",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2026-06-02T19:25:48Z",
-            "owner": "salesforce-ux",
-            "repo": "design-system",
-            "stars": 3699
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SanFrancisco (MacOS|iOS|WatchOS)",
-          "description": "/ Updated version (from apple) The Apple's UI font used in the Apple Watch, iOS 9, and OS X El Capitan.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-03-01T04:14:14Z",
-            "owner": "AppleDesignResources",
-            "repo": "SanFranciscoFont",
-            "stars": 1087
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Segoe (Windows)",
-          "description": "/ More complete version UI font used in windows",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-03-05T15:37:44Z",
-            "owner": "niko-yanev",
-            "repo": "segoe",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "UI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "18F/18franklin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-06T21:21:44Z",
-            "owner": "uswds",
-            "repo": "public-sans",
-            "stars": 4734
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "adobe-fonts/source-sans-pro",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2025-10-28T14:26:26Z",
-            "owner": "adobe-fonts",
-            "repo": "source-sans",
-            "stars": 3719
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RedHatBrand/overpass",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2023-07-20T19:49:53Z",
-            "owner": "RedHatOfficial",
-            "repo": "Overpass",
-            "stars": 2097
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "larsenwork/Gidole",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-01-01T09:14:28Z",
-            "owner": "larsenwork",
-            "repo": "Gidole",
-            "stars": 1895
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Space Grotesk",
-          "description": "+1:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-03-12T21:23:44Z",
-            "owner": "floriankarsten",
-            "repo": "space-grotesk",
-            "stars": 1815
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weiweihuanghuang/Work-Sans",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-04-10T14:05:11Z",
-            "owner": "weiweihuanghuang",
-            "repo": "Work-Sans",
-            "stars": 1702
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/league-gothic",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2023-11-24T16:27:38Z",
-            "owner": "theleagueof",
-            "repo": "league-gothic",
-            "stars": 927
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Barlow",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-10T04:57:15Z",
-            "owner": "jpt",
-            "repo": "barlow",
-            "stars": 823
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Figtree",
-          "description": "A friendly, simple geometric sans serif font :+1:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-04-04T23:14:38Z",
-            "owner": "erikdkennedy",
-            "repo": "figtree",
-            "stars": 818
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SN Pro",
-          "description": "Sans serif typeface optimized for use with Markdown. It is based on Nunito.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-12-07T07:36:56Z",
-            "owner": "supernotes",
-            "repo": "sn-pro",
-            "stars": 763
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/league-spartan",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-06-13T07:23:57Z",
-            "owner": "theleagueof",
-            "repo": "league-spartan",
-            "stars": 637
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/ostrich-sans",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2024-02-19T15:42:50Z",
-            "owner": "theleagueof",
-            "repo": "ostrich-sans",
-            "stars": 473
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/junction",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-19T15:42:53Z",
-            "owner": "theleagueof",
-            "repo": "junction",
-            "stars": 430
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "impallari/Libre-Franklin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-09-02T23:55:13Z",
-            "owner": "impallari",
-            "repo": "Libre-Franklin",
-            "stars": 425
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "impallari/Raleway",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-11-06T12:54:20Z",
-            "owner": "impallari",
-            "repo": "Raleway",
-            "stars": 403
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/orbitron",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-19T15:42:38Z",
-            "owner": "theleagueof",
-            "repo": "orbitron",
-            "stars": 284
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inclusive Sans",
-          "description": "A text font designed for accessibility and readability. More info",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-21T05:28:37Z",
-            "owner": "LivKing",
-            "repo": "Inclusive-Sans",
-            "stars": 256
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Techna Sans",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-08-19T23:09:49Z",
-            "owner": "somefreefonts",
-            "repo": "techna-sans",
-            "stars": 251
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Violet Sans",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-01-14T01:20:30Z",
-            "owner": "violetoffice",
-            "repo": "violet_sans",
-            "stars": 236
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Unbounded",
-          "description": "Open source, freely available and on-chain funded font. :+1:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-04-05T08:19:54Z",
-            "owner": "w3f",
-            "repo": "unbounded",
-            "stars": 194
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "impallari/Cabin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-07-23T00:33:02Z",
-            "owner": "impallari",
-            "repo": "Cabin",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Schibsted Grotesk",
-          "description": "+1:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-15T11:33:45Z",
-            "owner": "schibsted",
-            "repo": "schibsted-grotesk",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vernnobile/OswaldFont",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-08-24T12:28:15Z",
-            "owner": "vernnobile",
-            "repo": "OswaldFont",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vernnobile/MuliFont",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2014-03-14T22:29:02Z",
-            "owner": "vernnobile",
-            "repo": "MuliFont",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "impallari/Encode-Sans",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-02-03T17:52:06Z",
-            "owner": "impallari",
-            "repo": "Encode-Sans",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Secuela",
-          "description": "+1:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-11-24T20:29:54Z",
-            "owner": "defharo",
-            "repo": "secuela-variable",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wonder Unit",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-04-03T14:39:51Z",
-            "owner": "wonderunit",
-            "repo": "font-wonder-unit",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sursly/katahdin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-03-19T20:07:15Z",
-            "owner": "sursly",
-            "repo": "katahdin",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "impallari/Amiko-Devanagari",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-08-04T17:31:26Z",
-            "owner": "impallari",
-            "repo": "Amiko-Devanagari",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "itfoundry/hind-vadodara",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-10-16T19:28:23Z",
-            "owner": "itfoundry",
-            "repo": "hind-vadodara",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Sans serif"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "adobe-fonts/source-serif-pro",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2025-11-17T22:59:10Z",
-            "owner": "adobe-fonts",
-            "repo": "source-serif",
-            "stars": 2362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "edwardtufte/et-book",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-03-07T08:49:52Z",
-            "owner": "edwardtufte",
-            "repo": "et-book",
-            "stars": 1417
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "georgd/EB-Garamond",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-03-16T07:42:41Z",
-            "owner": "georgd",
-            "repo": "EB-Garamond",
-            "stars": 1067
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "undercasetype/Frances",
-          "description": "+1:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-11T17:42:21Z",
-            "owner": "undercasetype",
-            "repo": "Fraunces",
-            "stars": 751
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CatharsisFonts/Cormorant",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-21T10:14:15Z",
-            "owner": "CatharsisFonts",
-            "repo": "Cormorant",
-            "stars": 634
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clauseggers/Playfair-Display",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-03-20T12:25:45Z",
-            "owner": "clauseggers",
-            "repo": "Playfair",
-            "stars": 601
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "skosch/Crimson",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "Fonthausen/CrimsonPro",
-              "description": "+1: - A professionally produced redesign",
+              "title": "Inter",
+              "description": "The Inter UI font family http://rsms.me/inter/ :+1:",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 101033179,
+                "language": "Python",
+                "last_commit": "2024-11-19T03:16:13Z",
+                "owner": "rsms",
+                "repo": "inter",
+                "stars": 19816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IBM Plex",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105702631,
+                "language": "CSS",
+                "last_commit": "2026-07-30T11:29:25Z",
+                "owner": "IBM",
+                "repo": "plex",
+                "stars": 11575
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fira (FirefoxOS)",
+              "description": "Mozilla's new typeface, used in Firefox OS",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 13042462,
+                "language": "CSS",
+                "last_commit": "2020-12-16T10:22:30Z",
+                "owner": "mozilla",
+                "repo": "Fira",
+                "stars": 5141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Public Sans",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72852005,
                 "language": "Shell",
-                "last_commit": "2026-06-03T10:07:44Z",
-                "owner": "Fonthausen",
-                "repo": "CrimsonPro",
-                "stars": 336
+                "last_commit": "2026-07-06T21:21:44Z",
+                "owner": "uswds",
+                "repo": "public-sans",
+                "stars": 4734
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iA Writer Duospace",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111826317,
+                "language": null,
+                "last_commit": "2023-06-16T16:21:57Z",
+                "owner": "iaolo",
+                "repo": "iA-Fonts",
+                "stars": 4136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Roboto (Android)",
+              "description": "Googles's UI font used in Android",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 33761854,
+                "language": "Python",
+                "last_commit": "2025-04-01T16:56:26Z",
+                "owner": "googlefonts",
+                "repo": "roboto-2",
+                "stars": 3828
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Salesforce Sans",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 41759029,
+                "language": "JavaScript",
+                "last_commit": "2026-06-02T19:25:48Z",
+                "owner": "salesforce-ux",
+                "repo": "design-system",
+                "stars": 3699
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SanFrancisco (MacOS|iOS|WatchOS)",
+              "description": "/ Updated version (from apple) The Apple's UI font used in the Apple Watch, iOS 9, and OS X El Capitan.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37227110,
+                "language": null,
+                "last_commit": "2017-03-01T04:14:14Z",
+                "owner": "AppleDesignResources",
+                "repo": "SanFranciscoFont",
+                "stars": 1087
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Segoe (Windows)",
+              "description": "/ More complete version UI font used in windows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53207020,
+                "language": null,
+                "last_commit": "2016-03-05T15:37:44Z",
+                "owner": "niko-yanev",
+                "repo": "segoe",
+                "stars": 4
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-12-18T19:33:01Z",
-            "owner": "skosch",
-            "repo": "Crimson",
-            "stars": 562
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uplaod/YoungSerif",
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-19T12:03:20Z",
-            "owner": "noirblancrouge",
-            "repo": "YoungSerif",
-            "stars": 469
-          }
+          "node_type": "group",
+          "title": "UI"
         },
         {
-          "node_type": "item",
-          "title": "mozilla/zilla-slab",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "18F/18franklin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72852005,
+                "language": "Shell",
+                "last_commit": "2026-07-06T21:21:44Z",
+                "owner": "uswds",
+                "repo": "public-sans",
+                "stars": 4734
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adobe-fonts/source-sans-pro",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5362507,
+                "language": "CSS",
+                "last_commit": "2025-10-28T14:26:26Z",
+                "owner": "adobe-fonts",
+                "repo": "source-sans",
+                "stars": 3719
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RedHatBrand/overpass",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29510360,
+                "language": "Makefile",
+                "last_commit": "2023-07-20T19:49:53Z",
+                "owner": "RedHatOfficial",
+                "repo": "Overpass",
+                "stars": 2097
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "larsenwork/Gidole",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28156160,
+                "language": "Shell",
+                "last_commit": "2022-01-01T09:14:28Z",
+                "owner": "larsenwork",
+                "repo": "Gidole",
+                "stars": 1895
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Space Grotesk",
+              "description": "+1:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114785173,
+                "language": "Shell",
+                "last_commit": "2023-03-12T21:23:44Z",
+                "owner": "floriankarsten",
+                "repo": "space-grotesk",
+                "stars": 1816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weiweihuanghuang/Work-Sans",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21608062,
+                "language": "HTML",
+                "last_commit": "2024-04-10T14:05:11Z",
+                "owner": "weiweihuanghuang",
+                "repo": "Work-Sans",
+                "stars": 1702
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/league-gothic",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1413661,
+                "language": "Makefile",
+                "last_commit": "2023-11-24T16:27:38Z",
+                "owner": "theleagueof",
+                "repo": "league-gothic",
+                "stars": 927
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Barlow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69155355,
+                "language": "Python",
+                "last_commit": "2024-08-10T04:57:15Z",
+                "owner": "jpt",
+                "repo": "barlow",
+                "stars": 823
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Figtree",
+              "description": "A friendly, simple geometric sans serif font :+1:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 370580662,
+                "language": null,
+                "last_commit": "2025-04-04T23:14:38Z",
+                "owner": "erikdkennedy",
+                "repo": "figtree",
+                "stars": 818
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SN Pro",
+              "description": "Sans serif typeface optimized for use with Markdown. It is based on Nunito.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732832403,
+                "language": null,
+                "last_commit": "2025-12-07T07:36:56Z",
+                "owner": "supernotes",
+                "repo": "sn-pro",
+                "stars": 763
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/league-spartan",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24311821,
+                "language": null,
+                "last_commit": "2022-06-13T07:23:57Z",
+                "owner": "theleagueof",
+                "repo": "league-spartan",
+                "stars": 637
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/ostrich-sans",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1801844,
+                "language": "CSS",
+                "last_commit": "2024-02-19T15:42:50Z",
+                "owner": "theleagueof",
+                "repo": "ostrich-sans",
+                "stars": 473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/junction",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1437633,
+                "language": null,
+                "last_commit": "2024-02-19T15:42:53Z",
+                "owner": "theleagueof",
+                "repo": "junction",
+                "stars": 430
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "impallari/Libre-Franklin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36676108,
+                "language": "Shell",
+                "last_commit": "2025-09-02T23:55:13Z",
+                "owner": "impallari",
+                "repo": "Libre-Franklin",
+                "stars": 425
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "impallari/Raleway",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20776221,
+                "language": null,
+                "last_commit": "2020-11-06T12:54:20Z",
+                "owner": "impallari",
+                "repo": "Raleway",
+                "stars": 403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/orbitron",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1801622,
+                "language": null,
+                "last_commit": "2024-02-19T15:42:38Z",
+                "owner": "theleagueof",
+                "repo": "orbitron",
+                "stars": 284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inclusive Sans",
+              "description": "A text font designed for accessibility and readability. More info",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580996458,
+                "language": "Python",
+                "last_commit": "2025-02-21T05:28:37Z",
+                "owner": "LivKing",
+                "repo": "Inclusive-Sans",
+                "stars": 256
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Techna Sans",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186690268,
+                "language": null,
+                "last_commit": "2019-08-19T23:09:49Z",
+                "owner": "somefreefonts",
+                "repo": "techna-sans",
+                "stars": 251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Violet Sans",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227245091,
+                "language": null,
+                "last_commit": "2020-01-14T01:20:30Z",
+                "owner": "violetoffice",
+                "repo": "violet_sans",
+                "stars": 236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unbounded",
+              "description": "Open source, freely available and on-chain funded font. :+1:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 515563449,
+                "language": null,
+                "last_commit": "2023-04-05T08:19:54Z",
+                "owner": "w3f",
+                "repo": "unbounded",
+                "stars": 194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "impallari/Cabin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49156446,
+                "language": "Python",
+                "last_commit": "2020-07-23T00:33:02Z",
+                "owner": "impallari",
+                "repo": "Cabin",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Schibsted Grotesk",
+              "description": "+1:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 593132402,
+                "language": "Python",
+                "last_commit": "2023-12-15T11:33:45Z",
+                "owner": "schibsted",
+                "repo": "schibsted-grotesk",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vernnobile/OswaldFont",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5902513,
+                "language": null,
+                "last_commit": "2016-08-24T12:28:15Z",
+                "owner": "vernnobile",
+                "repo": "OswaldFont",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vernnobile/MuliFont",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3207448,
+                "language": null,
+                "last_commit": "2014-03-14T22:29:02Z",
+                "owner": "vernnobile",
+                "repo": "MuliFont",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "impallari/Encode-Sans",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22817249,
+                "language": null,
+                "last_commit": "2017-02-03T17:52:06Z",
+                "owner": "impallari",
+                "repo": "Encode-Sans",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Secuela",
+              "description": "+1:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157793649,
+                "language": null,
+                "last_commit": "2018-11-24T20:29:54Z",
+                "owner": "defharo",
+                "repo": "secuela-variable",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wonder Unit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109546082,
+                "language": "Python",
+                "last_commit": "2018-04-03T14:39:51Z",
+                "owner": "wonderunit",
+                "repo": "font-wonder-unit",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sursly/katahdin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31289586,
+                "language": "Shell",
+                "last_commit": "2022-03-19T20:07:15Z",
+                "owner": "sursly",
+                "repo": "katahdin",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "impallari/Amiko-Devanagari",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21305448,
+                "language": null,
+                "last_commit": "2016-08-04T17:31:26Z",
+                "owner": "impallari",
+                "repo": "Amiko-Devanagari",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "itfoundry/hind-vadodara",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37694292,
+                "language": "Python",
+                "last_commit": "2015-10-16T19:28:23Z",
+                "owner": "itfoundry",
+                "repo": "hind-vadodara",
+                "stars": 2
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-06-06T03:24:31Z",
-            "owner": "mozilla",
-            "repo": "zilla-slab",
-            "stars": 455
-          }
+          "node_type": "group",
+          "title": "Sans serif"
         },
         {
-          "node_type": "item",
-          "title": "klepas/open-baskerville",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "adobe-fonts/source-serif-pro",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18125500,
+                "language": "CSS",
+                "last_commit": "2025-11-17T22:59:10Z",
+                "owner": "adobe-fonts",
+                "repo": "source-serif",
+                "stars": 2364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "edwardtufte/et-book",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42790446,
+                "language": "HTML",
+                "last_commit": "2022-03-07T08:49:52Z",
+                "owner": "edwardtufte",
+                "repo": "et-book",
+                "stars": 1417
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "georgd/EB-Garamond",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 753452,
+                "language": "HTML",
+                "last_commit": "2024-03-16T07:42:41Z",
+                "owner": "georgd",
+                "repo": "EB-Garamond",
+                "stars": 1067
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "undercasetype/Frances",
+              "description": "+1:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151124512,
+                "language": "Python",
+                "last_commit": "2026-02-11T17:42:21Z",
+                "owner": "undercasetype",
+                "repo": "Fraunces",
+                "stars": 751
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CatharsisFonts/Cormorant",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40562258,
+                "language": "Python",
+                "last_commit": "2026-04-21T10:14:15Z",
+                "owner": "CatharsisFonts",
+                "repo": "Cormorant",
+                "stars": 634
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clauseggers/Playfair-Display",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26050562,
+                "language": "HTML",
+                "last_commit": "2026-03-20T12:25:45Z",
+                "owner": "clauseggers",
+                "repo": "Playfair",
+                "stars": 601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "skosch/Crimson",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Fonthausen/CrimsonPro",
+                  "description": "+1: - A professionally produced redesign",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 97040247,
+                    "language": "Shell",
+                    "last_commit": "2026-06-03T10:07:44Z",
+                    "owner": "Fonthausen",
+                    "repo": "CrimsonPro",
+                    "stars": 336
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 11887163,
+                "language": "HTML",
+                "last_commit": "2019-12-18T19:33:01Z",
+                "owner": "skosch",
+                "repo": "Crimson",
+                "stars": 562
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uplaod/YoungSerif",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9905365,
+                "language": "Python",
+                "last_commit": "2026-05-19T12:03:20Z",
+                "owner": "noirblancrouge",
+                "repo": "YoungSerif",
+                "stars": 469
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mozilla/zilla-slab",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90361578,
+                "language": "Shell",
+                "last_commit": "2023-06-06T03:24:31Z",
+                "owner": "mozilla",
+                "repo": "zilla-slab",
+                "stars": 455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "klepas/open-baskerville",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124341,
+                "language": "Ruby",
+                "last_commit": "2022-08-12T16:08:49Z",
+                "owner": "klepas",
+                "repo": "open-baskerville",
+                "stars": 392
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "impallari/Libre-Baskerville",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28055560,
+                "language": "HTML",
+                "last_commit": "2025-10-16T14:00:51Z",
+                "owner": "impallari",
+                "repo": "Libre-Baskerville",
+                "stars": 274
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "productiontype/Spectral",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94323726,
+                "language": null,
+                "last_commit": "2024-11-18T21:09:00Z",
+                "owner": "productiontype",
+                "repo": "Spectral",
+                "stars": 267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "productiontype/NewsReader",
+              "description": "+1:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242225019,
+                "language": "Python",
+                "last_commit": "2021-03-01T10:22:11Z",
+                "owner": "productiontype",
+                "repo": "Newsreader",
+                "stars": 247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/fanwood",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1801815,
+                "language": null,
+                "last_commit": "2024-02-19T15:42:47Z",
+                "owner": "theleagueof",
+                "repo": "fanwood",
+                "stars": 193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/sorts-mill-goudy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1801520,
+                "language": null,
+                "last_commit": "2024-02-19T15:42:45Z",
+                "owner": "theleagueof",
+                "repo": "sorts-mill-goudy",
+                "stars": 177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/goudy-bookletter-1911",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1801569,
+                "language": null,
+                "last_commit": "2024-02-19T15:42:41Z",
+                "owner": "theleagueof",
+                "repo": "goudy-bookletter-1911",
+                "stars": 162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clauseggers/Inknut-Antiqua",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22379328,
+                "language": "HTML",
+                "last_commit": "2026-01-02T07:51:22Z",
+                "owner": "clauseggers",
+                "repo": "Inknut-Antiqua",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/linden-hill",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1801801,
+                "language": null,
+                "last_commit": "2024-02-19T15:42:31Z",
+                "owner": "theleagueof",
+                "repo": "linden-hill",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/prociono",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1801708,
+                "language": null,
+                "last_commit": "2024-02-19T15:42:29Z",
+                "owner": "theleagueof",
+                "repo": "prociono",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "antonxheight/Arvo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1020171,
+                "language": null,
+                "last_commit": "2017-01-13T10:41:23Z",
+                "owner": "antonxheight",
+                "repo": "Arvo",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RingoSeeber/Petrona",
+              "description": "+1:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223807094,
+                "language": "PostScript",
+                "last_commit": "2020-10-19T15:30:53Z",
+                "owner": "RingoSeeber",
+                "repo": "Petrona",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "impallari/Libre-Caslon-Text",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27394235,
+                "language": null,
+                "last_commit": "2017-11-30T16:31:25Z",
+                "owner": "impallari",
+                "repo": "Libre-Caslon-Text",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mjlagattuta/Hepta-Slab",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122257339,
+                "language": "Python",
+                "last_commit": "2021-09-22T15:35:26Z",
+                "owner": "mjlagattuta",
+                "repo": "Hepta-Slab",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "impallari/Libre-Bodoni",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28055573,
+                "language": null,
+                "last_commit": "2016-11-01T13:05:13Z",
+                "owner": "impallari",
+                "repo": "Libre-Bodoni",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "impallari/Libre-Clarendon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31391523,
+                "language": null,
+                "last_commit": "2025-08-19T06:55:22Z",
+                "owner": "impallari",
+                "repo": "Libre-Clarendon",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "impallari/Libre-Caslon-Display",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27394255,
+                "language": null,
+                "last_commit": "2017-11-30T16:30:08Z",
+                "owner": "impallari",
+                "repo": "Libre-Caslon-Display",
+                "stars": 45
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2022-08-12T16:08:49Z",
-            "owner": "klepas",
-            "repo": "open-baskerville",
-            "stars": 391
-          }
+          "node_type": "group",
+          "title": "Serif"
         },
         {
-          "node_type": "item",
-          "title": "impallari/Libre-Baskerville",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tonsky/FiraCode",
+              "description": "Monospaced font with programming ligatures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26500787,
+                "language": "Clojure",
+                "last_commit": "2026-07-28T17:02:16Z",
+                "owner": "tonsky",
+                "repo": "FiraCode",
+                "stars": 81933
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cascadia Code",
+              "description": "Monospaced font that includes programming ligatures and is designed to en ce the modern look and feel of the Windows Terminal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196284711,
+                "language": "Python",
+                "last_commit": "2025-03-06T03:26:32Z",
+                "owner": "microsoft",
+                "repo": "cascadia-code",
+                "stars": 27855
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adobe-fonts/source-code-pro",
+              "description": "Monospaced font family for user interface and coding environments",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5362524,
+                "language": "CSS",
+                "last_commit": "2025-10-28T23:34:52Z",
+                "owner": "adobe-fonts",
+                "repo": "source-code-pro",
+                "stars": 20433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "source-foundry/Hack",
+              "description": "A typeface designed for source code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37829238,
+                "language": "Shell",
+                "last_commit": "2022-11-21T18:05:33Z",
+                "owner": "source-foundry",
+                "repo": "Hack",
+                "stars": 17327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Intel One Mono",
+              "description": "Expressive monospaced font family that’s built with clarity, legibility, and the needs of developers in mind.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626613254,
+                "language": null,
+                "last_commit": "2025-09-08T22:22:24Z",
+                "owner": "intel",
+                "repo": "intel-one-mono",
+                "stars": 9935
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "larsenwork/monoid",
+              "description": "Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33323837,
+                "language": "Python",
+                "last_commit": "2020-10-26T07:45:56Z",
+                "owner": "larsenwork",
+                "repo": "monoid",
+                "stars": 7958
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "belluzj/fantasque-sans",
+              "description": "A font family with a great monospaced variant for programmers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14488312,
+                "language": "Python",
+                "last_commit": "2026-03-15T16:37:54Z",
+                "owner": "belluzj",
+                "repo": "fantasque-sans",
+                "stars": 7432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fantasque Sans",
+              "description": "A font family with a great monospaced variant for programmers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14488312,
+                "language": "Python",
+                "last_commit": "2026-03-15T16:37:54Z",
+                "owner": "belluzj",
+                "repo": "fantasque-sans",
+                "stars": 7432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "i-tu/Hasklig",
+              "description": "A code font with monospaced ligatures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18487827,
+                "language": "Python",
+                "last_commit": "2022-02-19T01:25:54Z",
+                "owner": "i-tu",
+                "repo": "Hasklig",
+                "stars": 5717
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hasklig",
+              "description": "Hasklig - a code font with monospaced ligatures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18487827,
+                "language": "Python",
+                "last_commit": "2022-02-19T01:25:54Z",
+                "owner": "i-tu",
+                "repo": "Hasklig",
+                "stars": 5717
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "madmalik/mononoki",
+              "description": "A programming typeface",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12892446,
+                "language": null,
+                "last_commit": "2025-08-04T12:22:29Z",
+                "owner": "madmalik",
+                "repo": "mononoki",
+                "stars": 4626
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Victor Mono",
+              "description": "A free programming font with cursive italics and ligatures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185932416,
+                "language": "Vue",
+                "last_commit": "2026-07-18T15:41:27Z",
+                "owner": "rubjo",
+                "repo": "victor-mono",
+                "stars": 3789
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "0xProto",
+              "description": "A programming font focused on source code legibility",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 637255192,
+                "language": "Python",
+                "last_commit": "2026-03-21T10:01:37Z",
+                "owner": "0xType",
+                "repo": "0xProto",
+                "stars": 2769
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "andreberg/Meslo-Font",
+              "description": "Customized version of Apple's Menlo font.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580108,
+                "language": null,
+                "last_commit": "2019-01-22T02:22:41Z",
+                "owner": "andreberg",
+                "repo": "Meslo-Font",
+                "stars": 2735
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Martian mono",
+              "description": "Free and open-source monospaced font from Evil Martians :+1:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 474996294,
+                "language": null,
+                "last_commit": "2026-07-23T18:37:35Z",
+                "owner": "evilmartians",
+                "repo": "mono",
+                "stars": 2718
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lilex",
+              "description": "Open source programming font",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214013071,
+                "language": "Astro",
+                "last_commit": "2026-07-13T09:11:09Z",
+                "owner": "mishamyrt",
+                "repo": "Lilex",
+                "stars": 1721
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JuliaMono",
+              "description": "A monospaced font with reasonable Unicode support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266089304,
+                "language": "CSS",
+                "last_commit": "2026-07-18T11:18:41Z",
+                "owner": "cormullion",
+                "repo": "juliamono",
+                "stars": 1686
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Myna",
+              "description": "A monospace typeface designed for symbol-rich programming",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1087862764,
+                "language": "Python",
+                "last_commit": "2026-06-17T17:34:57Z",
+                "owner": "sayyadirfanali",
+                "repo": "Myna",
+                "stars": 1629
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fragment-mono",
+              "description": "Helvetica Monospace Coding Font",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542850483,
+                "language": "HTML",
+                "last_commit": "2026-04-03T12:33:00Z",
+                "owner": "weiweihuanghuang",
+                "repo": "fragment-mono",
+                "stars": 934
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sursly/sono",
+              "description": "A soft monospace variable font :+1:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278444833,
+                "language": null,
+                "last_commit": "2022-08-08T17:44:20Z",
+                "owner": "sursly",
+                "repo": "sono",
+                "stars": 553
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Consolas ligaturized",
+              "description": "Standard Consolas font with FiraCode ligatures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154674978,
+                "language": null,
+                "last_commit": "2022-05-09T12:52:47Z",
+                "owner": "somq",
+                "repo": "consolas-ligaturized",
+                "stars": 453
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kelmscott mono",
+              "description": "A black letter for the text editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 986500617,
+                "language": null,
+                "last_commit": "2025-11-02T22:38:08Z",
+                "owner": "seeddisperser",
+                "repo": "kelmscott-mono",
+                "stars": 306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "displaay/Azeret",
+              "description": "Azeret is a sans-serif typeface with a mono-linear character.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 350728897,
+                "language": null,
+                "last_commit": "2021-06-04T19:41:25Z",
+                "owner": "displaay",
+                "repo": "Azeret",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "raphaelbastide/Whois-mono",
+              "description": "A simple monospace font",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4615930,
+                "language": "HTML",
+                "last_commit": "2015-03-05T16:37:01Z",
+                "owner": "raphaelbastide",
+                "repo": "Whois-mono",
+                "stars": 140
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-10-16T14:00:51Z",
-            "owner": "impallari",
-            "repo": "Libre-Baskerville",
-            "stars": 274
-          }
+          "node_type": "group",
+          "title": "Monospaced"
         },
         {
-          "node_type": "item",
-          "title": "productiontype/Spectral",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "be5invis/Iosevka",
+              "description": "Versatile typeface for code, from code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39315600,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T02:58:13Z",
+                "owner": "be5invis",
+                "repo": "Iosevka",
+                "stars": 22636
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "googlei18n/noto-fonts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 37085010,
+                "language": "Python",
+                "last_commit": "2023-01-25T13:40:16Z",
+                "owner": "notofonts",
+                "repo": "noto-fonts",
+                "stars": 2504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "khaledhosny/libertinus",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10892932,
+                "language": "Spline Font Database",
+                "last_commit": "2024-10-02T12:25:14Z",
+                "owner": "alerque",
+                "repo": "libertinus",
+                "stars": 1413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reddit Sans",
+              "description": "\"The typeface of the internet\" with Sans, Sans Condensed and Mono versions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 689130301,
+                "language": "Pug",
+                "last_commit": "2025-06-09T02:11:49Z",
+                "owner": "reddit",
+                "repo": "redditsans",
+                "stars": 463
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inria",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116013349,
+                "language": "HTML",
+                "last_commit": "2021-12-08T05:49:01Z",
+                "owner": "BlackFoundryCom",
+                "repo": "InriaFonts",
+                "stars": 403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Instrument Sans",
+              "description": "+1: & Instrument Serif.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602721343,
+                "language": null,
+                "last_commit": "2023-06-14T13:12:10Z",
+                "owner": "Instrument",
+                "repo": "instrument-sans",
+                "stars": 320
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-11-18T21:09:00Z",
-            "owner": "productiontype",
-            "repo": "Spectral",
-            "stars": 266
-          }
+          "node_type": "group",
+          "title": "Combined"
         },
         {
-          "node_type": "item",
-          "title": "productiontype/NewsReader",
-          "description": "+1:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-01T10:22:11Z",
-            "owner": "productiontype",
-            "repo": "Newsreader",
-            "stars": 247
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/fanwood",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ipython/xkcd-font",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12418387,
+                "language": "Python",
+                "last_commit": "2026-07-09T03:41:53Z",
+                "owner": "ipython",
+                "repo": "xkcd-font",
+                "stars": 1277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Optician Sans",
+              "description": "Typeface based on the historical eye charts and optotypes used by opticians world wide",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162098017,
+                "language": null,
+                "last_commit": "2021-12-19T01:29:00Z",
+                "owner": "anewtypeofinterference",
+                "repo": "Optician-Sans",
+                "stars": 701
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shantell Sans",
+              "description": "A marker-style font built for creative expression, typographic play, and animation. :+1:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276137243,
+                "language": "HTML",
+                "last_commit": "2024-06-17T18:12:29Z",
+                "owner": "arrowtype",
+                "repo": "shantell-sans",
+                "stars": 656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "figs-lab/datalegreya",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70789265,
+                "language": "JavaScript",
+                "last_commit": "2023-11-06T16:50:04Z",
+                "owner": "figs-lab",
+                "repo": "datalegreya",
+                "stars": 599
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "antijingoist/open-dyslexic",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 3024900,
+                "language": "CSS",
+                "last_commit": "2025-08-11T20:43:09Z",
+                "owner": "antijingoist",
+                "repo": "open-dyslexic",
+                "stars": 560
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/chunk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1801414,
+                "language": null,
+                "last_commit": "2021-03-03T20:23:07Z",
+                "owner": "theleagueof",
+                "repo": "chunk",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chomsky",
+              "description": "A font in the style of the New York Times masthead",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179080837,
+                "language": "Python",
+                "last_commit": "2021-12-06T13:56:15Z",
+                "owner": "ctrlcctrlv",
+                "repo": "chomsky",
+                "stars": 264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alpha Lyrae",
+              "description": "The Vega font - uses Ligatures & Contextual Alternates to add a little glitch to your world",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431435639,
+                "language": null,
+                "last_commit": "2022-09-23T09:37:01Z",
+                "owner": "vegaprotocol",
+                "repo": "alpha-lyrae",
+                "stars": 221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uplaod/FuturaRenner",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7667637,
+                "language": "Python",
+                "last_commit": "2025-02-14T21:13:42Z",
+                "owner": "noirblancrouge",
+                "repo": "Formera",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/blackout",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1801470,
+                "language": null,
+                "last_commit": "2024-02-19T15:42:34Z",
+                "owner": "theleagueof",
+                "repo": "blackout",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sprat",
+              "description": "A display typeface",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232574611,
+                "language": null,
+                "last_commit": "2020-12-27T03:01:43Z",
+                "owner": "EthanNakache",
+                "repo": "Sprat-type",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/knewave",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2752271,
+                "language": null,
+                "last_commit": "2024-02-19T15:42:25Z",
+                "owner": "theleagueof",
+                "repo": "knewave",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/league-script-number-one",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1801749,
+                "language": null,
+                "last_commit": "2024-02-19T15:42:19Z",
+                "owner": "theleagueof",
+                "repo": "league-script-number-one",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/sniglet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1801406,
+                "language": null,
+                "last_commit": "2024-02-19T15:42:11Z",
+                "owner": "theleagueof",
+                "repo": "sniglet",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "impallari/The-Lobster-Font",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38460061,
+                "language": "HTML",
+                "last_commit": "2023-10-05T09:30:05Z",
+                "owner": "impallari",
+                "repo": "The-Lobster-Font",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awp/chawp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15117013,
+                "language": "CSS",
+                "last_commit": "2013-12-11T19:47:04Z",
+                "owner": "awp",
+                "repo": "chawp",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sursly/excelsiorama",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66231900,
+                "language": "HTML",
+                "last_commit": "2026-01-07T21:04:22Z",
+                "owner": "sursly",
+                "repo": "excelsiorama",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sursly/taurusmono",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20100781,
+                "language": null,
+                "last_commit": "2021-06-18T01:12:55Z",
+                "owner": "sursly",
+                "repo": "taurusmono",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awp/christopharii",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17299974,
+                "language": null,
+                "last_commit": "2014-03-07T17:30:53Z",
+                "owner": "awp",
+                "repo": "christopharii",
+                "stars": 3
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-19T15:42:47Z",
-            "owner": "theleagueof",
-            "repo": "fanwood",
-            "stars": 193
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/sorts-mill-goudy",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-19T15:42:45Z",
-            "owner": "theleagueof",
-            "repo": "sorts-mill-goudy",
-            "stars": 177
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/goudy-bookletter-1911",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-19T15:42:41Z",
-            "owner": "theleagueof",
-            "repo": "goudy-bookletter-1911",
-            "stars": 162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clauseggers/Inknut-Antiqua",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-01-02T07:51:22Z",
-            "owner": "clauseggers",
-            "repo": "Inknut-Antiqua",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/linden-hill",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-19T15:42:31Z",
-            "owner": "theleagueof",
-            "repo": "linden-hill",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/prociono",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-19T15:42:29Z",
-            "owner": "theleagueof",
-            "repo": "prociono",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "antonxheight/Arvo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-01-13T10:41:23Z",
-            "owner": "antonxheight",
-            "repo": "Arvo",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RingoSeeber/Petrona",
-          "description": "+1:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PostScript",
-            "last_commit": "2020-10-19T15:30:53Z",
-            "owner": "RingoSeeber",
-            "repo": "Petrona",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "impallari/Libre-Caslon-Text",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-11-30T16:31:25Z",
-            "owner": "impallari",
-            "repo": "Libre-Caslon-Text",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mjlagattuta/Hepta-Slab",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-09-22T15:35:26Z",
-            "owner": "mjlagattuta",
-            "repo": "Hepta-Slab",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "impallari/Libre-Bodoni",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-11-01T13:05:13Z",
-            "owner": "impallari",
-            "repo": "Libre-Bodoni",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "impallari/Libre-Clarendon",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-08-19T06:55:22Z",
-            "owner": "impallari",
-            "repo": "Libre-Clarendon",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "impallari/Libre-Caslon-Display",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-11-30T16:30:08Z",
-            "owner": "impallari",
-            "repo": "Libre-Caslon-Display",
-            "stars": 45
-          }
+          "node_type": "group",
+          "title": "Others"
         }
       ],
-      "title": "Serif"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tonsky/FiraCode",
-          "description": "Monospaced font with programming ligatures",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-07-28T17:02:16Z",
-            "owner": "tonsky",
-            "repo": "FiraCode",
-            "stars": 81930
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cascadia Code",
-          "description": "Monospaced font that includes programming ligatures and is designed to en ce the modern look and feel of the Windows Terminal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-06T03:26:32Z",
-            "owner": "microsoft",
-            "repo": "cascadia-code",
-            "stars": 27854
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "adobe-fonts/source-code-pro",
-          "description": "Monospaced font family for user interface and coding environments",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2025-10-28T23:34:52Z",
-            "owner": "adobe-fonts",
-            "repo": "source-code-pro",
-            "stars": 20432
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "source-foundry/Hack",
-          "description": "A typeface designed for source code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-11-21T18:05:33Z",
-            "owner": "source-foundry",
-            "repo": "Hack",
-            "stars": 17326
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Intel One Mono",
-          "description": "Expressive monospaced font family that’s built with clarity, legibility, and the needs of developers in mind.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-09-08T22:22:24Z",
-            "owner": "intel",
-            "repo": "intel-one-mono",
-            "stars": 9935
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "larsenwork/monoid",
-          "description": "Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-10-26T07:45:56Z",
-            "owner": "larsenwork",
-            "repo": "monoid",
-            "stars": 7958
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "belluzj/fantasque-sans",
-          "description": "A font family with a great monospaced variant for programmers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-15T16:37:54Z",
-            "owner": "belluzj",
-            "repo": "fantasque-sans",
-            "stars": 7432
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fantasque Sans",
-          "description": "A font family with a great monospaced variant for programmers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-15T16:37:54Z",
-            "owner": "belluzj",
-            "repo": "fantasque-sans",
-            "stars": 7432
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "i-tu/Hasklig",
-          "description": "A code font with monospaced ligatures",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-19T01:25:54Z",
-            "owner": "i-tu",
-            "repo": "Hasklig",
-            "stars": 5717
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hasklig",
-          "description": "Hasklig - a code font with monospaced ligatures",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-19T01:25:54Z",
-            "owner": "i-tu",
-            "repo": "Hasklig",
-            "stars": 5717
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "madmalik/mononoki",
-          "description": "A programming typeface",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-08-04T12:22:29Z",
-            "owner": "madmalik",
-            "repo": "mononoki",
-            "stars": 4626
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Victor Mono",
-          "description": "A free programming font with cursive italics and ligatures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-07-18T15:41:27Z",
-            "owner": "rubjo",
-            "repo": "victor-mono",
-            "stars": 3788
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "0xProto",
-          "description": "A programming font focused on source code legibility",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-21T10:01:37Z",
-            "owner": "0xType",
-            "repo": "0xProto",
-            "stars": 2767
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "andreberg/Meslo-Font",
-          "description": "Customized version of Apple's Menlo font.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-01-22T02:22:41Z",
-            "owner": "andreberg",
-            "repo": "Meslo-Font",
-            "stars": 2735
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Martian mono",
-          "description": "Free and open-source monospaced font from Evil Martians :+1:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-23T18:37:35Z",
-            "owner": "evilmartians",
-            "repo": "mono",
-            "stars": 2718
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lilex",
-          "description": "Open source programming font",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Astro",
-            "last_commit": "2026-07-13T09:11:09Z",
-            "owner": "mishamyrt",
-            "repo": "Lilex",
-            "stars": 1720
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JuliaMono",
-          "description": "A monospaced font with reasonable Unicode support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-07-18T11:18:41Z",
-            "owner": "cormullion",
-            "repo": "juliamono",
-            "stars": 1686
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Myna",
-          "description": "A monospace typeface designed for symbol-rich programming",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-17T17:34:57Z",
-            "owner": "sayyadirfanali",
-            "repo": "Myna",
-            "stars": 1629
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fragment-mono",
-          "description": "Helvetica Monospace Coding Font",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-04-03T12:33:00Z",
-            "owner": "weiweihuanghuang",
-            "repo": "fragment-mono",
-            "stars": 933
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sursly/sono",
-          "description": "A soft monospace variable font :+1:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-08-08T17:44:20Z",
-            "owner": "sursly",
-            "repo": "sono",
-            "stars": 553
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Consolas ligaturized",
-          "description": "Standard Consolas font with FiraCode ligatures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-05-09T12:52:47Z",
-            "owner": "somq",
-            "repo": "consolas-ligaturized",
-            "stars": 453
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kelmscott mono",
-          "description": "A black letter for the text editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-11-02T22:38:08Z",
-            "owner": "seeddisperser",
-            "repo": "kelmscott-mono",
-            "stars": 306
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "displaay/Azeret",
-          "description": "Azeret is a sans-serif typeface with a mono-linear character.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-06-04T19:41:25Z",
-            "owner": "displaay",
-            "repo": "Azeret",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "raphaelbastide/Whois-mono",
-          "description": "A simple monospace font",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2015-03-05T16:37:01Z",
-            "owner": "raphaelbastide",
-            "repo": "Whois-mono",
-            "stars": 140
-          }
-        }
-      ],
-      "title": "Monospaced"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "be5invis/Iosevka",
-          "description": "Versatile typeface for code, from code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T02:58:13Z",
-            "owner": "be5invis",
-            "repo": "Iosevka",
-            "stars": 22636
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "googlei18n/noto-fonts",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-01-25T13:40:16Z",
-            "owner": "notofonts",
-            "repo": "noto-fonts",
-            "stars": 2504
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "khaledhosny/libertinus",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Spline Font Database",
-            "last_commit": "2024-10-02T12:25:14Z",
-            "owner": "alerque",
-            "repo": "libertinus",
-            "stars": 1413
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Reddit Sans",
-          "description": "\"The typeface of the internet\" with Sans, Sans Condensed and Mono versions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pug",
-            "last_commit": "2025-06-09T02:11:49Z",
-            "owner": "reddit",
-            "repo": "redditsans",
-            "stars": 463
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inria",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2021-12-08T05:49:01Z",
-            "owner": "BlackFoundryCom",
-            "repo": "InriaFonts",
-            "stars": 403
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Instrument Sans",
-          "description": "+1: & Instrument Serif.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-06-14T13:12:10Z",
-            "owner": "Instrument",
-            "repo": "instrument-sans",
-            "stars": 321
-          }
-        }
-      ],
-      "title": "Combined"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ipython/xkcd-font",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-09T03:41:53Z",
-            "owner": "ipython",
-            "repo": "xkcd-font",
-            "stars": 1277
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Optician Sans",
-          "description": "Typeface based on the historical eye charts and optotypes used by opticians world wide",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-12-19T01:29:00Z",
-            "owner": "anewtypeofinterference",
-            "repo": "Optician-Sans",
-            "stars": 701
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shantell Sans",
-          "description": "A marker-style font built for creative expression, typographic play, and animation. :+1:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-06-17T18:12:29Z",
-            "owner": "arrowtype",
-            "repo": "shantell-sans",
-            "stars": 656
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "figs-lab/datalegreya",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-11-06T16:50:04Z",
-            "owner": "figs-lab",
-            "repo": "datalegreya",
-            "stars": 599
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "antijingoist/open-dyslexic",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "CSS",
-            "last_commit": "2025-08-11T20:43:09Z",
-            "owner": "antijingoist",
-            "repo": "open-dyslexic",
-            "stars": 560
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/chunk",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-03-03T20:23:07Z",
-            "owner": "theleagueof",
-            "repo": "chunk",
-            "stars": 272
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chomsky",
-          "description": "A font in the style of the New York Times masthead",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-12-06T13:56:15Z",
-            "owner": "ctrlcctrlv",
-            "repo": "chomsky",
-            "stars": 264
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alpha Lyrae",
-          "description": "The Vega font - uses Ligatures & Contextual Alternates to add a little glitch to your world",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-09-23T09:37:01Z",
-            "owner": "vegaprotocol",
-            "repo": "alpha-lyrae",
-            "stars": 221
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uplaod/FuturaRenner",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-14T21:13:42Z",
-            "owner": "noirblancrouge",
-            "repo": "Formera",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/blackout",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-19T15:42:34Z",
-            "owner": "theleagueof",
-            "repo": "blackout",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sprat",
-          "description": "A display typeface",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-12-27T03:01:43Z",
-            "owner": "EthanNakache",
-            "repo": "Sprat-type",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/knewave",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-19T15:42:25Z",
-            "owner": "theleagueof",
-            "repo": "knewave",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/league-script-number-one",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-19T15:42:19Z",
-            "owner": "theleagueof",
-            "repo": "league-script-number-one",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theleagueof/sniglet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-19T15:42:11Z",
-            "owner": "theleagueof",
-            "repo": "sniglet",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "impallari/The-Lobster-Font",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-10-05T09:30:05Z",
-            "owner": "impallari",
-            "repo": "The-Lobster-Font",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awp/chawp",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2013-12-11T19:47:04Z",
-            "owner": "awp",
-            "repo": "chawp",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sursly/excelsiorama",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-01-07T21:04:22Z",
-            "owner": "sursly",
-            "repo": "excelsiorama",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sursly/taurusmono",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-06-18T01:12:55Z",
-            "owner": "sursly",
-            "repo": "taurusmono",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awp/christopharii",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2014-03-07T17:30:53Z",
-            "owner": "awp",
-            "repo": "christopharii",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Others"
+      "title": "Fonts"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:57:58.491Z",
+    "last_updated": "2026-08-19T12:23:09.944Z",
     "original_repository": "oscarotero/awesome-design",
+    "original_repository_id": 50173266,
     "original_repository_sha": "6939b2d8ee85085d6b5112fcea942f35e23cb16c",
     "enhanced_repository": "enhansome/enhansome-design",
     "enhanced_repository_description": null,
