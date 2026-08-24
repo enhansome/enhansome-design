@@ -27,10 +27,10 @@
             "archived": false,
             "id": 243546335,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T21:56:33Z",
+            "last_commit": "2026-08-24T21:29:48Z",
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21490
+            "stars": 21491
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-23T15:03:04Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25707
+            "stars": 25712
           }
         },
         {
@@ -224,7 +224,7 @@
                 "last_commit": "2024-11-19T03:16:13Z",
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 19834
+                "stars": 19831
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2026-07-30T11:29:25Z",
                 "owner": "IBM",
                 "repo": "plex",
-                "stars": 11590
+                "stars": 11592
               }
             },
             {
@@ -381,7 +381,7 @@
                 "last_commit": "2025-10-28T14:26:26Z",
                 "owner": "adobe-fonts",
                 "repo": "source-sans",
-                "stars": 3723
+                "stars": 3724
               }
             },
             {
@@ -501,7 +501,7 @@
                 "last_commit": "2025-12-07T07:36:56Z",
                 "owner": "supernotes",
                 "repo": "sn-pro",
-                "stars": 763
+                "stars": 765
               }
             },
             {
@@ -516,7 +516,7 @@
                 "last_commit": "2022-06-13T07:23:57Z",
                 "owner": "theleagueof",
                 "repo": "league-spartan",
-                "stars": 637
+                "stars": 636
               }
             },
             {
@@ -898,7 +898,7 @@
                 "last_commit": "2026-03-20T12:25:45Z",
                 "owner": "clauseggers",
                 "repo": "Playfair",
-                "stars": 600
+                "stars": 599
               }
             },
             {
@@ -1236,7 +1236,7 @@
                 "last_commit": "2026-07-28T17:02:16Z",
                 "owner": "tonsky",
                 "repo": "FiraCode",
-                "stars": 81949
+                "stars": 81950
               }
             },
             {
@@ -1251,7 +1251,7 @@
                 "last_commit": "2025-03-06T03:26:32Z",
                 "owner": "microsoft",
                 "repo": "cascadia-code",
-                "stars": 27864
+                "stars": 27863
               }
             },
             {
@@ -1386,7 +1386,7 @@
                 "last_commit": "2025-08-04T12:22:29Z",
                 "owner": "madmalik",
                 "repo": "mononoki",
-                "stars": 4627
+                "stars": 4628
               }
             },
             {
@@ -1416,7 +1416,7 @@
                 "last_commit": "2026-03-21T10:01:37Z",
                 "owner": "0xType",
                 "repo": "0xProto",
-                "stars": 2839
+                "stars": 2848
               }
             },
             {
@@ -1678,7 +1678,7 @@
                 "last_commit": "2023-06-14T13:12:10Z",
                 "owner": "Instrument",
                 "repo": "instrument-sans",
-                "stars": 320
+                "stars": 321
               }
             }
           ],
@@ -1983,7 +1983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:35:04.321Z",
+    "last_updated": "2026-08-24T22:01:36.202Z",
     "original_repository": "oscarotero/awesome-design",
     "original_repository_id": 50173266,
     "original_repository_sha": "6939b2d8ee85085d6b5112fcea942f35e23cb16c",
