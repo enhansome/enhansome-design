@@ -15,7 +15,7 @@
             "last_commit": "2025-03-11T02:18:59Z",
             "owner": "feathericons",
             "repo": "feather",
-            "stars": 25980
+            "stars": 25982
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T22:21:55Z",
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21511
+            "stars": 21515
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-01-20T01:57:40Z",
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11294
+            "stars": 11296
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 6720403,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T21:57:08Z",
+            "last_commit": "2026-08-27T06:39:59Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25734
+            "stars": 25735
           }
         },
         {
@@ -224,7 +224,7 @@
                 "last_commit": "2024-11-19T03:16:13Z",
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 19840
+                "stars": 19843
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2026-07-30T11:29:25Z",
                 "owner": "IBM",
                 "repo": "plex",
-                "stars": 11601
+                "stars": 11602
               }
             },
             {
@@ -381,7 +381,7 @@
                 "last_commit": "2025-10-28T14:26:26Z",
                 "owner": "adobe-fonts",
                 "repo": "source-sans",
-                "stars": 3728
+                "stars": 3730
               }
             },
             {
@@ -426,7 +426,7 @@
                 "last_commit": "2023-03-12T21:23:44Z",
                 "owner": "floriankarsten",
                 "repo": "space-grotesk",
-                "stars": 1817
+                "stars": 1818
               }
             },
             {
@@ -1251,7 +1251,7 @@
                 "last_commit": "2025-03-06T03:26:32Z",
                 "owner": "microsoft",
                 "repo": "cascadia-code",
-                "stars": 27865
+                "stars": 27867
               }
             },
             {
@@ -1281,7 +1281,7 @@
                 "last_commit": "2022-11-21T18:05:33Z",
                 "owner": "source-foundry",
                 "repo": "Hack",
-                "stars": 17329
+                "stars": 17330
               }
             },
             {
@@ -1401,7 +1401,7 @@
                 "last_commit": "2026-07-18T15:41:27Z",
                 "owner": "rubjo",
                 "repo": "victor-mono",
-                "stars": 3793
+                "stars": 3794
               }
             },
             {
@@ -1461,7 +1461,7 @@
                 "last_commit": "2026-07-13T09:11:09Z",
                 "owner": "mishamyrt",
                 "repo": "Lilex",
-                "stars": 1733
+                "stars": 1735
               }
             },
             {
@@ -1600,10 +1600,10 @@
                 "archived": false,
                 "id": 39315600,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T03:22:01Z",
+                "last_commit": "2026-08-27T03:38:17Z",
                 "owner": "be5invis",
                 "repo": "Iosevka",
-                "stars": 22678
+                "stars": 22679
               }
             },
             {
@@ -1700,7 +1700,7 @@
                 "last_commit": "2026-07-09T03:41:53Z",
                 "owner": "ipython",
                 "repo": "xkcd-font",
-                "stars": 1275
+                "stars": 1276
               }
             },
             {
@@ -1730,7 +1730,7 @@
                 "last_commit": "2024-06-17T18:12:29Z",
                 "owner": "arrowtype",
                 "repo": "shantell-sans",
-                "stars": 655
+                "stars": 656
               }
             },
             {
@@ -1983,10 +1983,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T01:04:51.726Z",
-    "original_repository": "oscarotero/awesome-design",
-    "original_repository_id": 50173266,
-    "original_repository_sha": "6939b2d8ee85085d6b5112fcea942f35e23cb16c",
+    "last_updated": "2026-08-27T11:34:39.694Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 50173266,
+      "language": null,
+      "last_commit": "2026-08-27T06:37:07Z",
+      "owner": "oscarotero",
+      "repo": "awesome-design",
+      "stars": 150
+    },
+    "original_repository_sha": "299bd1bd5635d825fab01575336e721e00298fe6",
     "enhanced_repository": "enhansome/enhansome-design",
     "enhanced_repository_description": null,
     "title": "Awesome A collection of open source resources for web designers with stars"
