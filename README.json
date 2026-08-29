@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simply beautiful open-source icons",
+            "homepage": "https://feathericons.com",
             "id": 20270252,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-11T02:18:59Z",
+            "open_issues": 510,
             "owner": "feathericons",
             "repo": "feather",
-            "stars": 25982
+            "stars": 25981,
+            "topics": [
+              "icons",
+              "javascript",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T05:49:41.916Z"
         },
@@ -26,12 +35,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+            "homepage": "https://tabler.io/icons",
             "id": 243546335,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T22:21:55Z",
+            "open_issues": 108,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21527
+            "stars": 21528,
+            "topics": [
+              "bootstrap-icons",
+              "components",
+              "css",
+              "icon",
+              "icon-pack",
+              "icons",
+              "icons-pack",
+              "iconset",
+              "quality-svg-icons",
+              "react",
+              "svelte",
+              "svg",
+              "svg-icons",
+              "tabler-icons"
+            ]
           },
           "first_seen": "2026-08-28T05:49:41.916Z"
         },
@@ -42,12 +71,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✒7000+ Material Design Icons from the Community",
+            "homepage": "https://materialdesignicons.com",
             "id": 21314224,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
+            "open_issues": 1111,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11299
+            "stars": 11299,
+            "topics": [
+              "android",
+              "bootstrap",
+              "donations",
+              "google-material",
+              "icons",
+              "material-design",
+              "svg",
+              "webfonts"
+            ]
           },
           "first_seen": "2026-08-28T05:49:41.916Z"
         },
@@ -58,12 +101,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.",
+            "homepage": "https://akveo.github.io/eva-icons/",
             "id": 155437620,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T01:54:54Z",
+            "open_issues": 57,
             "owner": "akveo",
             "repo": "eva-icons",
-            "stars": 8818
+            "stars": 8817,
+            "topics": [
+              "icon",
+              "icon-font",
+              "icon-pack",
+              "icons"
+            ]
           },
           "first_seen": "2026-08-28T05:49:41.916Z"
         },
@@ -74,12 +127,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny style-controlled SVG iconset (101 icons, 12kb)",
+            "homepage": "https://danklammer.com/bytesize-icons/",
             "id": 39126489,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-10-10T12:44:37Z",
+            "open_issues": 7,
             "owner": "danklammer",
             "repo": "bytesize-icons",
-            "stars": 3911
+            "stars": 3911,
+            "topics": [
+              "icon-set",
+              "icons",
+              "iconset",
+              "inline-svg",
+              "lightweight",
+              "svg",
+              "svg-icons",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T05:49:41.916Z"
         },
@@ -90,12 +157,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully customisable & accessible vector icons",
+            "homepage": "https://ikonate.com",
             "id": 107711917,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T18:58:51Z",
+            "open_issues": 18,
             "owner": "mikolajdobrucki",
             "repo": "ikonate",
-            "stars": 3583
+            "stars": 3583,
+            "topics": [
+              "icon-pack",
+              "icon-set",
+              "icon-sprite-generator",
+              "icon-system",
+              "icons",
+              "sprites",
+              "spritesheet",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T05:49:41.916Z"
         },
@@ -106,12 +187,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Micon, The iconic windows 10 font and CSS toolkit.",
+            "homepage": "http://xtoolkit.github.io/Micon/",
             "id": 42330298,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2019-02-18T14:01:51Z",
+            "open_issues": 3,
             "owner": "xtoolkit",
             "repo": "Micon",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "bower",
+              "css",
+              "custom-fonts",
+              "font",
+              "font-tooklit",
+              "iconic-toolkit",
+              "icons",
+              "micon"
+            ]
           },
           "first_seen": "2026-08-28T05:49:41.916Z"
         }
@@ -128,12 +223,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SVG icons for popular brands",
+            "homepage": "https://simpleicons.org",
             "id": 6720403,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-29T01:29:28Z",
+            "open_issues": 946,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25744
+            "stars": 25743,
+            "topics": [
+              "brand",
+              "brand-assets",
+              "brand-colors",
+              "branding",
+              "branding-assets",
+              "brands",
+              "company-brands",
+              "design",
+              "design-assets",
+              "icon-pack",
+              "icon-packs",
+              "icons",
+              "iconset",
+              "logo",
+              "logos",
+              "svg",
+              "svg-files",
+              "svg-icons",
+              "svg-images"
+            ]
           },
           "first_seen": "2026-08-28T05:49:41.916Z"
         },
@@ -144,12 +264,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+            "homepage": "https://edent.github.io/SuperTinyIcons/",
             "id": 88214511,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-18T06:50:14Z",
+            "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15380
+            "stars": 15380,
+            "topics": [
+              "hacktoberfest",
+              "logo",
+              "social-media",
+              "svg",
+              "svg-icons",
+              "tiny-social-icons"
+            ]
           },
           "first_seen": "2026-08-28T05:49:41.916Z"
         },
@@ -160,12 +292,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A huge collection of SVG logos",
+            "homepage": "https://svglogos.dev",
             "id": 37291982,
             "language": "SVG",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-15T21:19:03Z",
+            "open_issues": 110,
             "owner": "gilbarbara",
             "repo": "logos",
-            "stars": 6812
+            "stars": 6812,
+            "topics": [
+              "logos",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T05:49:41.916Z"
         },
@@ -176,12 +316,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗂 High resolution web browser logos",
+            "homepage": "https://github.com/alrra/browser-logos#readme",
             "id": 6583352,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-10-13T03:11:27Z",
+            "open_issues": 9,
             "owner": "alrra",
             "repo": "browser-logos",
-            "stars": 6044
+            "stars": 6044,
+            "topics": [
+              "browser-logos",
+              "browsers",
+              "icons",
+              "iconset",
+              "iconsets",
+              "logo",
+              "logos",
+              "svg",
+              "svg-icons",
+              "svgs"
+            ]
           },
           "first_seen": "2026-08-28T05:49:41.916Z"
         },
@@ -192,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "All the logos of instantlogosearch.com",
+            "homepage": "http://instantlogosearch.com/",
             "id": 50413123,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-25T02:48:24Z",
+            "open_issues": 10,
             "owner": "kogg",
             "repo": "instant-logos",
-            "stars": 762
+            "stars": 762,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:41.916Z"
         },
@@ -208,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vector icons, badges, flags etc. über optimised for web use.",
+            "homepage": null,
             "id": 48603739,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-02-18T17:39:48Z",
+            "open_issues": 6,
             "owner": "larsenwork",
             "repo": "web.svg.min",
-            "stars": 385
+            "stars": 385,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:41.916Z"
         }
@@ -232,12 +398,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Inter font family",
+                "homepage": "https://rsms.me/inter/",
                 "id": 101033179,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2024-11-19T03:16:13Z",
+                "open_issues": 149,
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 19846
+                "stars": 19846,
+                "topics": [
+                  "design",
+                  "font",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -248,12 +423,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The package of IBM’s typeface, IBM Plex.",
+                "homepage": null,
                 "id": 105702631,
                 "language": "CSS",
+                "license": "OFL-1.1",
                 "last_commit": "2026-07-30T11:29:25Z",
+                "open_issues": 80,
                 "owner": "IBM",
                 "repo": "plex",
-                "stars": 11604
+                "stars": 11605,
+                "topics": [
+                  "design",
+                  "font",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -264,12 +448,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEPRECATED - Mozilla's new typeface, used in Firefox OS",
+                "homepage": "mozilla.github.io/Fira",
                 "id": 13042462,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2020-12-16T10:22:30Z",
+                "open_issues": 0,
                 "owner": "mozilla",
                 "repo": "Fira",
-                "stars": 5141
+                "stars": 5141,
+                "topics": [
+                  "abandoned",
+                  "unmaintained"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -280,12 +472,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A strong, neutral, principles-driven, open source typeface for text or display",
+                "homepage": "https://public-sans.digital.gov/",
                 "id": 72852005,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-06T21:21:44Z",
+                "open_issues": 53,
                 "owner": "uswds",
                 "repo": "public-sans",
-                "stars": 4737
+                "stars": 4737,
+                "topics": [
+                  "font",
+                  "geometric",
+                  "ofl",
+                  "sans-serif",
+                  "sil",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -296,12 +500,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free variable writing fonts from iA",
+                "homepage": "https://ia.net",
                 "id": 111826317,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-06-16T16:21:57Z",
+                "open_issues": 11,
                 "owner": "iaolo",
                 "repo": "iA-Fonts",
-                "stars": 4144
+                "stars": 4144,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -312,12 +521,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Roboto family of fonts",
+                "homepage": null,
                 "id": 33761854,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-01T16:56:26Z",
+                "open_issues": 157,
                 "owner": "googlefonts",
                 "repo": "roboto-2",
-                "stars": 3828
+                "stars": 3828,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -328,12 +542,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Salesforce Lightning Design System",
+                "homepage": "https://www.lightningdesignsystem.com",
                 "id": 41759029,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-02T19:25:48Z",
+                "open_issues": 41,
                 "owner": "salesforce-ux",
                 "repo": "design-system",
-                "stars": 3700
+                "stars": 3700,
+                "topics": [
+                  "css",
+                  "design-systems",
+                  "html",
+                  "salesforce-lightning"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -344,12 +568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The San Francisco font by Apple used in the Apple Watch, iOS 9, and OS X El Capitan. Originally found at https://developer.apple.com/watchos/download/",
+                "homepage": null,
                 "id": 37227110,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-03-01T04:14:14Z",
+                "open_issues": 7,
                 "owner": "AppleDesignResources",
                 "repo": "SanFranciscoFont",
-                "stars": 1088
+                "stars": 1088,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -360,12 +589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Segoe UI font",
+                "homepage": null,
                 "id": 53207020,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2016-03-05T15:37:44Z",
+                "open_issues": 0,
                 "owner": "niko-yanev",
                 "repo": "segoe",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             }
@@ -383,12 +617,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A strong, neutral, principles-driven, open source typeface for text or display",
+                "homepage": "https://public-sans.digital.gov/",
                 "id": 72852005,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-06T21:21:44Z",
+                "open_issues": 53,
                 "owner": "uswds",
                 "repo": "public-sans",
-                "stars": 4737
+                "stars": 4737,
+                "topics": [
+                  "font",
+                  "geometric",
+                  "ofl",
+                  "sans-serif",
+                  "sil",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -399,12 +645,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sans serif font family for user interface environments",
+                "homepage": "https://adobe-fonts.github.io/source-sans",
                 "id": 5362507,
                 "language": "CSS",
+                "license": "OFL-1.1",
                 "last_commit": "2025-10-28T14:26:26Z",
+                "open_issues": 42,
                 "owner": "adobe-fonts",
                 "repo": "source-sans",
-                "stars": 3733
+                "stars": 3733,
+                "topics": [
+                  "afdko",
+                  "fonts",
+                  "opentype-fonts",
+                  "otf",
+                  "ttf-fonts",
+                  "variable-fonts"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -415,12 +673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Overpass open source web font family — Sponsored by Red Hat",
+                "homepage": "http://overpassfont.org",
                 "id": 29510360,
                 "language": "Makefile",
+                "license": "OFL-1.1",
                 "last_commit": "2023-07-20T19:49:53Z",
+                "open_issues": 46,
                 "owner": "RedHatOfficial",
                 "repo": "Overpass",
-                "stars": 2096
+                "stars": 2096,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -431,12 +694,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gidole - Open Source Modern DIN",
+                "homepage": "gidole.github.io",
                 "id": 28156160,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-01-01T09:14:28Z",
+                "open_issues": 22,
                 "owner": "larsenwork",
                 "repo": "Gidole",
-                "stars": 1895
+                "stars": 1895,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -447,12 +715,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Space Grotesk: a proportional variant of the original fixed-width Space Mono family",
+                "homepage": "https://floriankarsten.github.io/space-grotesk",
                 "id": 114785173,
                 "language": "Shell",
+                "license": "OFL-1.1",
                 "last_commit": "2023-03-12T21:23:44Z",
+                "open_issues": 15,
                 "owner": "floriankarsten",
                 "repo": "space-grotesk",
-                "stars": 1820
+                "stars": 1820,
+                "topics": [
+                  "font",
+                  "latin",
+                  "open-font-license",
+                  "sans-serif",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -463,12 +742,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A grotesque sans.",
+                "homepage": "http://weiweihuanghuang.github.io/Work-Sans/",
                 "id": 21608062,
                 "language": "HTML",
+                "license": "OFL-1.1",
                 "last_commit": "2024-04-10T14:05:11Z",
+                "open_issues": 26,
                 "owner": "weiweihuanghuang",
                 "repo": "Work-Sans",
-                "stars": 1703
+                "stars": 1703,
+                "topics": [
+                  "font",
+                  "fonts",
+                  "google-fonts",
+                  "latin",
+                  "sans-serif",
+                  "sans-serif-typeface",
+                  "typeface",
+                  "vietnamese"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -479,12 +772,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A revival of an old classic, Alternate Gothic #1",
+                "homepage": "https://www.theleagueofmoveabletype.com/league-gothic",
                 "id": 1413661,
                 "language": "Makefile",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-24T16:27:38Z",
+                "open_issues": 7,
                 "owner": "theleagueof",
                 "repo": "league-gothic",
-                "stars": 928
+                "stars": 928,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -495,12 +793,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Barlow: a straight-sided sans-serif superfamily",
+                "homepage": "https://tribby.com/fonts/barlow",
                 "id": 69155355,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2024-08-10T04:57:15Z",
+                "open_issues": 50,
                 "owner": "jpt",
                 "repo": "barlow",
-                "stars": 824
+                "stars": 824,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -511,12 +814,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A friendly, simple geometric sans serif font",
+                "homepage": null,
                 "id": 370580662,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2025-04-04T23:14:38Z",
+                "open_issues": 20,
                 "owner": "erikdkennedy",
                 "repo": "figtree",
-                "stars": 820
+                "stars": 820,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -527,12 +835,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SN Pro Font Family",
+                "homepage": null,
                 "id": 732832403,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2025-12-07T07:36:56Z",
+                "open_issues": 3,
                 "owner": "supernotes",
                 "repo": "sn-pro",
-                "stars": 766
+                "stars": 766,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -543,12 +856,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fantastic new revival of ATF's classic Spartan, a geometric sans-serif that has no problem kicking its enemies in the chest.",
+                "homepage": null,
                 "id": 24311821,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2022-06-13T07:23:57Z",
+                "open_issues": 14,
                 "owner": "theleagueof",
                 "repo": "league-spartan",
-                "stars": 637
+                "stars": 637,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -559,12 +877,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A gorgeous modern sans-serif with a very long neck.",
+                "homepage": "http://theleagueofmoveabletype.com/ostrich-sans",
                 "id": 1801844,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2024-02-19T15:42:50Z",
+                "open_issues": 13,
                 "owner": "theleagueof",
                 "repo": "ostrich-sans",
-                "stars": 473
+                "stars": 473,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -575,12 +898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Our first open source type project, expanding a humanist sans-serif typeface, Junction.",
+                "homepage": "http://www.theleagueofmoveabletype.com/junction",
                 "id": 1437633,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-19T15:42:53Z",
+                "open_issues": 13,
                 "owner": "theleagueof",
                 "repo": "junction",
-                "stars": 430
+                "stars": 430,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -591,12 +919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Libre Franklin Fonts",
+                "homepage": null,
                 "id": 36676108,
                 "language": "Shell",
+                "license": "OFL-1.1",
                 "last_commit": "2025-09-02T23:55:13Z",
+                "open_issues": 9,
                 "owner": "impallari",
                 "repo": "Libre-Franklin",
-                "stars": 425
+                "stars": 425,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -607,12 +940,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Raleway Fonts",
+                "homepage": null,
                 "id": 20776221,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2020-11-06T12:54:20Z",
+                "open_issues": 26,
                 "owner": "impallari",
                 "repo": "Raleway",
-                "stars": 403
+                "stars": 403,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -623,12 +961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A geometric sans-serif from the future.",
+                "homepage": "http://theleagueofmoveabletype.com/orbitron",
                 "id": 1801622,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-19T15:42:38Z",
+                "open_issues": 6,
                 "owner": "theleagueof",
                 "repo": "orbitron",
-                "stars": 285
+                "stars": 285,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -639,12 +982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 580996458,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2025-02-21T05:28:37Z",
+                "open_issues": 10,
                 "owner": "LivKing",
                 "repo": "Inclusive-Sans",
-                "stars": 257
+                "stars": 257,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -655,12 +1003,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sharp, geometric typeface",
+                "homepage": null,
                 "id": 186690268,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2019-08-19T23:09:49Z",
+                "open_issues": 5,
                 "owner": "somefreefonts",
                 "repo": "techna-sans",
-                "stars": 251
+                "stars": 251,
+                "topics": [
+                  "font",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -671,12 +1027,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 227245091,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2020-01-14T01:20:30Z",
+                "open_issues": 4,
                 "owner": "violetoffice",
                 "repo": "violet_sans",
-                "stars": 236
+                "stars": 236,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -687,12 +1048,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source, freely available and on-chain funded font.",
+                "homepage": "https://unbounded.polkadot.network",
                 "id": 515563449,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2023-04-05T08:19:54Z",
+                "open_issues": 6,
                 "owner": "w3f",
                 "repo": "unbounded",
-                "stars": 197
+                "stars": 197,
+                "topics": [
+                  "font",
+                  "on-chain",
+                  "polkadot",
+                  "treasury",
+                  "typography",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -703,12 +1076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cabin Fonts",
+                "homepage": null,
                 "id": 49156446,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2020-07-23T00:33:02Z",
+                "open_issues": 5,
                 "owner": "impallari",
                 "repo": "Cabin",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -719,12 +1097,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Schibsted Grotesk font",
+                "homepage": null,
                 "id": 593132402,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2023-12-15T11:33:45Z",
+                "open_issues": 0,
                 "owner": "schibsted",
                 "repo": "schibsted-grotesk",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -735,12 +1118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "repo for the Oswald font family",
+                "homepage": null,
                 "id": 5902513,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-08-24T12:28:15Z",
+                "open_issues": 14,
                 "owner": "vernnobile",
                 "repo": "OswaldFont",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -751,12 +1139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Git Repository for the Muli Font Family",
+                "homepage": null,
                 "id": 3207448,
                 "language": null,
+                "license": null,
                 "last_commit": "2014-03-14T22:29:02Z",
+                "open_issues": 3,
                 "owner": "vernnobile",
                 "repo": "MuliFont",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -767,12 +1160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Encode Sans Fonts",
+                "homepage": null,
                 "id": 22817249,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2017-02-03T17:52:06Z",
+                "open_issues": 3,
                 "owner": "impallari",
                 "repo": "Encode-Sans",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -783,12 +1181,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secuela Sans & Condensed - Variable Font OFL",
+                "homepage": "https://fontlibrary.org/en/font/secuela-variable",
                 "id": 157793649,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2018-11-24T20:29:54Z",
+                "open_issues": 1,
                 "owner": "defharo",
                 "repo": "secuela-variable",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "bitcoin",
+                  "condensed",
+                  "latin-extended-a",
+                  "neo-gothic",
+                  "neo-grotesque",
+                  "open-source",
+                  "opentype-fonts",
+                  "sans-serif",
+                  "small-capital",
+                  "spain",
+                  "truetype",
+                  "ttfautohint",
+                  "typeface",
+                  "variable-fonts",
+                  "webfonts"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -799,12 +1218,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and open source sans-serif font, brought to you by Wonder Unit.",
+                "homepage": "https://wonderunit.com",
                 "id": 109546082,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2018-04-03T14:39:51Z",
+                "open_issues": 3,
                 "owner": "wonderunit",
                 "repo": "font-wonder-unit",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "font",
+                  "fonts",
+                  "storyboard",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -815,12 +1244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A free, open source, rounded geometrics sans",
+                "homepage": null,
                 "id": 31289586,
                 "language": "Shell",
+                "license": "OFL-1.1",
                 "last_commit": "2022-03-19T20:07:15Z",
+                "open_issues": 0,
                 "owner": "sursly",
                 "repo": "katahdin",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -831,12 +1265,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amiko Fonts: Utilitarian Latin + Devanagari webfonts",
+                "homepage": null,
                 "id": 21305448,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2016-08-04T17:31:26Z",
+                "open_issues": 2,
                 "owner": "impallari",
                 "repo": "Amiko-Devanagari",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -847,12 +1286,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gujarati font.",
+                "homepage": null,
                 "id": 37694292,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-10-16T19:28:23Z",
+                "open_issues": 1,
                 "owner": "itfoundry",
                 "repo": "hind-vadodara",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             }
@@ -870,12 +1314,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans. ",
+                "homepage": "https://adobe-fonts.github.io/source-serif",
                 "id": 18125500,
                 "language": "CSS",
+                "license": "OFL-1.1",
                 "last_commit": "2025-11-17T22:59:10Z",
+                "open_issues": 44,
                 "owner": "adobe-fonts",
                 "repo": "source-serif",
-                "stars": 2369
+                "stars": 2369,
+                "topics": [
+                  "afdko",
+                  "fonts",
+                  "opentype-fonts",
+                  "otf",
+                  "ttf-fonts",
+                  "variable-fonts"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -886,12 +1342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A webfont of the typeface used in Edward Tufte’s books.",
+                "homepage": "https://edwardtufte.github.io/et-book",
                 "id": 42790446,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-03-07T08:49:52Z",
+                "open_issues": 16,
                 "owner": "edwardtufte",
                 "repo": "et-book",
-                "stars": 1419
+                "stars": 1419,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -902,12 +1363,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Digitization of the Garamond shown on the Egenolff-Berner specimen",
+                "homepage": "http://www.georgduffner.at/ebgaramond",
                 "id": 753452,
                 "language": "HTML",
+                "license": "OFL-1.1",
                 "last_commit": "2024-03-16T07:42:41Z",
+                "open_issues": 81,
                 "owner": "georgd",
                 "repo": "EB-Garamond",
-                "stars": 1071
+                "stars": 1071,
+                "topics": [
+                  "fonts",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -918,12 +1387,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Git Repository for Fraunces Font Family",
+                "homepage": null,
                 "id": 151124512,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2026-02-11T17:42:21Z",
+                "open_issues": 38,
                 "owner": "undercasetype",
                 "repo": "Fraunces",
-                "stars": 754
+                "stars": 754,
+                "topics": [
+                  "font",
+                  "google-fonts",
+                  "variable-fonts"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -934,12 +1412,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cormorant open-source display font family",
+                "homepage": null,
                 "id": 40562258,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2026-04-21T10:14:15Z",
+                "open_issues": 22,
                 "owner": "CatharsisFonts",
                 "repo": "Cormorant",
-                "stars": 636
+                "stars": 636,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -950,12 +1433,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Playfair is a general purpose Open Source typeface family",
+                "homepage": "https://forthehearts.net/playfair/",
                 "id": 26050562,
                 "language": "HTML",
+                "license": "OFL-1.1",
                 "last_commit": "2026-03-20T12:25:45Z",
+                "open_issues": 1,
                 "owner": "clauseggers",
                 "repo": "Playfair",
-                "stars": 600
+                "stars": 600,
+                "topics": [
+                  "cyrillic",
+                  "font",
+                  "latin",
+                  "open-source",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -971,24 +1465,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Crimson Text typeface",
+                    "homepage": null,
                     "id": 97040247,
                     "language": "Shell",
+                    "license": "OFL-1.1",
                     "last_commit": "2026-06-03T10:07:44Z",
+                    "open_issues": 0,
                     "owner": "Fonthausen",
                     "repo": "CrimsonPro",
-                    "stars": 336
+                    "stars": 336,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:41.916Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "The Crimson Text typeface",
+                "homepage": null,
                 "id": 11887163,
                 "language": "HTML",
+                "license": "OFL-1.1",
                 "last_commit": "2019-12-18T19:33:01Z",
+                "open_issues": 58,
                 "owner": "skosch",
                 "repo": "Crimson",
-                "stars": 562
+                "stars": 562,
+                "topics": [
+                  "font",
+                  "ttf",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -999,12 +1507,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Young Serif is a variable old style serif typeface",
+                "homepage": "https://noirblancrouge.com/fonts/young-serif/",
                 "id": 9905365,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2026-05-19T12:03:20Z",
+                "open_issues": 0,
                 "owner": "noirblancrouge",
                 "repo": "YoungSerif",
-                "stars": 469
+                "stars": 469,
+                "topics": [
+                  "font",
+                  "fonts",
+                  "opentype",
+                  "otf",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1015,12 +1534,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mozilla's Zilla Slab Type Family",
+                "homepage": null,
                 "id": 90361578,
                 "language": "Shell",
+                "license": "OFL-1.1",
                 "last_commit": "2023-06-06T03:24:31Z",
+                "open_issues": 31,
                 "owner": "mozilla",
                 "repo": "zilla-slab",
-                "stars": 457
+                "stars": 457,
+                "topics": [
+                  "mozilla",
+                  "typography",
+                  "webfont",
+                  "webfonts"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1031,12 +1560,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open font project to create a revival of Fry’s Baskerville",
+                "homepage": "http://klepas.org/openbaskerville",
                 "id": 124341,
                 "language": "Ruby",
+                "license": "GPL-3.0",
                 "last_commit": "2022-08-12T16:08:49Z",
+                "open_issues": 11,
                 "owner": "klepas",
                 "repo": "open-baskerville",
-                "stars": 392
+                "stars": 392,
+                "topics": [
+                  "baskerville",
+                  "font",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1047,12 +1585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Libre Baskerville Fonts",
+                "homepage": null,
                 "id": 28055560,
                 "language": "HTML",
+                "license": "OFL-1.1",
                 "last_commit": "2025-10-16T14:00:51Z",
+                "open_issues": 7,
                 "owner": "impallari",
                 "repo": "Libre-Baskerville",
-                "stars": 273
+                "stars": 273,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1063,12 +1606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spectral is an original typeface designed by Production Type, primarily intended for use inside Google’s Docs and Slides.",
+                "homepage": "https://productiontype.github.io/Spectral/",
                 "id": 94323726,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2024-11-18T21:09:00Z",
+                "open_issues": 7,
                 "owner": "productiontype",
                 "repo": "Spectral",
-                "stars": 268
+                "stars": 268,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1079,12 +1627,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NewsReader is an original typeface designed by Production Type, primarily intended for continuous on-screen reading in content-rich environments.",
+                "homepage": null,
                 "id": 242225019,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2021-03-01T10:22:11Z",
+                "open_issues": 7,
                 "owner": "productiontype",
                 "repo": "Newsreader",
-                "stars": 247
+                "stars": 247,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1095,12 +1648,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A serif based on the work of a famous Czech-American type designer of yesteryear. ",
+                "homepage": "http://theleagueofmoveabletype.com/fanwood",
                 "id": 1801815,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-19T15:42:47Z",
+                "open_issues": 7,
                 "owner": "theleagueof",
                 "repo": "fanwood",
-                "stars": 193
+                "stars": 193,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1111,12 +1669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ‘revival’ of Goudy Oldstyle and Italic.",
+                "homepage": "http://theleagueofmoveabletype.com/sorts-mill-goudy",
                 "id": 1801520,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-19T15:42:45Z",
+                "open_issues": 7,
                 "owner": "theleagueof",
                 "repo": "sorts-mill-goudy",
-                "stars": 177
+                "stars": 177,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1127,12 +1690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A public domain font based on Frederic Goudy’s Kennerley Oldstyle.",
+                "homepage": "http://theleagueofmoveabletype.com/goudy-bookletter-1911",
                 "id": 1801569,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-19T15:42:41Z",
+                "open_issues": 8,
                 "owner": "theleagueof",
                 "repo": "goudy-bookletter-1911",
-                "stars": 161
+                "stars": 161,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1143,12 +1711,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The »Inknut Antiqua« typeface",
+                "homepage": null,
                 "id": 22379328,
                 "language": "HTML",
+                "license": "OFL-1.1",
                 "last_commit": "2026-01-02T07:51:22Z",
+                "open_issues": 0,
                 "owner": "clauseggers",
                 "repo": "Inknut-Antiqua",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "devanagiri",
+                  "font",
+                  "latin",
+                  "open-source",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1159,12 +1738,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A digital version of Frederic Goudy’s Deepdene.",
+                "homepage": "http://theleagueofmoveabletype.com/linden-hill",
                 "id": 1801801,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-19T15:42:31Z",
+                "open_issues": 3,
                 "owner": "theleagueof",
                 "repo": "linden-hill",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1175,12 +1759,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A roman serif with blackletter elements.",
+                "homepage": "http://theleagueofmoveabletype.com/prociono",
                 "id": 1801708,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-19T15:42:29Z",
+                "open_issues": 2,
                 "owner": "theleagueof",
                 "repo": "prociono",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1191,12 +1780,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "screen and print typeface",
+                "homepage": "kork.ee",
                 "id": 1020171,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-01-13T10:41:23Z",
+                "open_issues": 4,
                 "owner": "antonxheight",
                 "repo": "Arvo",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1207,12 +1801,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Typeface Family. Variable Font. Roman and Italic. Latin Expert. ",
+                "homepage": null,
                 "id": 223807094,
                 "language": "PostScript",
+                "license": "OFL-1.1",
                 "last_commit": "2020-10-19T15:30:53Z",
+                "open_issues": 4,
                 "owner": "RingoSeeber",
                 "repo": "Petrona",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1223,12 +1822,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Libre Caslon Text",
+                "homepage": null,
                 "id": 27394235,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2017-11-30T16:31:25Z",
+                "open_issues": 2,
                 "owner": "impallari",
                 "repo": "Libre-Caslon-Text",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1239,12 +1843,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 122257339,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2021-09-22T15:35:26Z",
+                "open_issues": 8,
                 "owner": "mjlagattuta",
                 "repo": "Hepta-Slab",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1255,12 +1864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Libre Bodoni Fonts",
+                "homepage": null,
                 "id": 28055573,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2016-11-01T13:05:13Z",
+                "open_issues": 12,
                 "owner": "impallari",
                 "repo": "Libre-Bodoni",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1271,12 +1885,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Libre Clarendon Fonts",
+                "homepage": null,
                 "id": 31391523,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2025-08-19T06:55:22Z",
+                "open_issues": 2,
                 "owner": "impallari",
                 "repo": "Libre-Clarendon",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1287,12 +1906,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Libre Caslon Display",
+                "homepage": null,
                 "id": 27394255,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2017-11-30T16:30:08Z",
+                "open_issues": 1,
                 "owner": "impallari",
                 "repo": "Libre-Caslon-Display",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             }
@@ -1310,12 +1934,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free monospaced font with programming ligatures",
+                "homepage": null,
                 "id": 26500787,
                 "language": "Clojure",
+                "license": "OFL-1.1",
                 "last_commit": "2026-07-28T17:02:16Z",
+                "open_issues": 428,
                 "owner": "tonsky",
                 "repo": "FiraCode",
-                "stars": 81959
+                "stars": 81959,
+                "topics": [
+                  "font",
+                  "ligatures",
+                  "programming-ligatures"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1326,12 +1959,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
+                "homepage": null,
                 "id": 196284711,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-06T03:26:32Z",
+                "open_issues": 162,
                 "owner": "microsoft",
                 "repo": "cascadia-code",
-                "stars": 27869
+                "stars": 27870,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1342,12 +1980,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monospaced font family for user interface and coding environments",
+                "homepage": "https://adobe-fonts.github.io/source-code-pro/",
                 "id": 5362524,
                 "language": "CSS",
+                "license": "OFL-1.1",
                 "last_commit": "2025-10-28T23:34:52Z",
+                "open_issues": 86,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20440
+                "stars": 20440,
+                "topics": [
+                  "afdko",
+                  "fonts",
+                  "opentype-fonts",
+                  "otf",
+                  "ttf-fonts",
+                  "variable-fonts"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1358,12 +2008,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A typeface designed for source code",
+                "homepage": "http://sourcefoundry.org/hack/",
                 "id": 37829238,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-21T18:05:33Z",
+                "open_issues": 151,
                 "owner": "source-foundry",
                 "repo": "Hack",
-                "stars": 17335
+                "stars": 17335,
+                "topics": [
+                  "developer",
+                  "developer-tools",
+                  "font",
+                  "hack",
+                  "ttf",
+                  "typeface",
+                  "web-fonts"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1374,12 +2037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Intel One Mono font repository",
+                "homepage": null,
                 "id": 626613254,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2025-09-08T22:22:24Z",
+                "open_issues": 22,
                 "owner": "intel",
                 "repo": "intel-one-mono",
-                "stars": 9936
+                "stars": 9936,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1390,12 +2058,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/",
+                "homepage": null,
                 "id": 33323837,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-26T07:45:56Z",
+                "open_issues": 77,
                 "owner": "larsenwork",
                 "repo": "monoid",
-                "stars": 7959
+                "stars": 7959,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1406,12 +2079,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A font family with a great monospaced variant for programmers.",
+                "homepage": "http://openfontlibrary.org/en/font/fantasque-sans-mono",
                 "id": 14488312,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2026-03-15T16:37:54Z",
+                "open_issues": 71,
                 "owner": "belluzj",
                 "repo": "fantasque-sans",
-                "stars": 7436
+                "stars": 7436,
+                "topics": [
+                  "font",
+                  "monospace-font"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1422,12 +2103,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A font family with a great monospaced variant for programmers.",
+                "homepage": "http://openfontlibrary.org/en/font/fantasque-sans-mono",
                 "id": 14488312,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2026-03-15T16:37:54Z",
+                "open_issues": 71,
                 "owner": "belluzj",
                 "repo": "fantasque-sans",
-                "stars": 7436
+                "stars": 7436,
+                "topics": [
+                  "font",
+                  "monospace-font"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1438,12 +2127,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hasklig - a code font with monospaced ligatures",
+                "homepage": null,
                 "id": 18487827,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2022-02-19T01:25:54Z",
+                "open_issues": 44,
                 "owner": "i-tu",
                 "repo": "Hasklig",
-                "stars": 5716
+                "stars": 5716,
+                "topics": [
+                  "afdko",
+                  "font",
+                  "hasklig",
+                  "ligatures",
+                  "otf"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1454,12 +2154,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hasklig - a code font with monospaced ligatures",
+                "homepage": null,
                 "id": 18487827,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2022-02-19T01:25:54Z",
+                "open_issues": 44,
                 "owner": "i-tu",
                 "repo": "Hasklig",
-                "stars": 5716
+                "stars": 5716,
+                "topics": [
+                  "afdko",
+                  "font",
+                  "hasklig",
+                  "ligatures",
+                  "otf"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1470,12 +2181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a programming typeface",
+                "homepage": null,
                 "id": 12892446,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2025-08-04T12:22:29Z",
+                "open_issues": 15,
                 "owner": "madmalik",
                 "repo": "mononoki",
-                "stars": 4626
+                "stars": 4626,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1486,12 +2202,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A free programming font with cursive italics and ligatures. Donations welcome ❤️",
+                "homepage": "https://rubjo.github.io/victor-mono",
                 "id": 185932416,
                 "language": "Vue",
+                "license": "OFL-1.1",
                 "last_commit": "2026-07-18T15:41:27Z",
+                "open_issues": 7,
                 "owner": "rubjo",
                 "repo": "victor-mono",
-                "stars": 3794
+                "stars": 3794,
+                "topics": [
+                  "coding-font",
+                  "cursive",
+                  "cursive-italics",
+                  "download",
+                  "font",
+                  "free",
+                  "italics",
+                  "ligatures",
+                  "monospace-font",
+                  "programming-font",
+                  "typeface",
+                  "victor-mono"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1502,12 +2236,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-legibility programming font engineered to minimize cognitive load.",
+                "homepage": null,
                 "id": 637255192,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2026-03-21T10:01:37Z",
+                "open_issues": 11,
                 "owner": "0xType",
                 "repo": "0xProto",
-                "stars": 2862
+                "stars": 2862,
+                "topics": [
+                  "design",
+                  "font",
+                  "programming-font",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1518,12 +2262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Customized version of Apple's Menlo font. Great monospaced font for development work. Should also work with the Windows Console (see Wiki for Windows infos).",
+                "homepage": null,
                 "id": 580108,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-01-22T02:22:41Z",
+                "open_issues": 24,
                 "owner": "andreberg",
                 "repo": "Meslo-Font",
-                "stars": 2736
+                "stars": 2736,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1534,12 +2283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and open-source monospaced font from Evil Martians",
+                "homepage": null,
                 "id": 474996294,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2026-07-23T18:37:35Z",
+                "open_issues": 8,
                 "owner": "evilmartians",
                 "repo": "mono",
-                "stars": 2722
+                "stars": 2722,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1550,12 +2304,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤘Open source programming font",
+                "homepage": "https://lilex.myrt.co",
                 "id": 214013071,
                 "language": "Astro",
+                "license": "OFL-1.1",
                 "last_commit": "2026-07-13T09:11:09Z",
+                "open_issues": 5,
                 "owner": "mishamyrt",
                 "repo": "Lilex",
-                "stars": 1735
+                "stars": 1735,
+                "topics": [
+                  "font",
+                  "ligatures",
+                  "opentype-features",
+                  "programming-ligatures"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1566,12 +2330,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.",
+                "homepage": "https://juliamono.netlify.app/",
                 "id": 266089304,
                 "language": "CSS",
+                "license": "OFL-1.1",
                 "last_commit": "2026-07-18T11:18:41Z",
+                "open_issues": 25,
                 "owner": "cormullion",
                 "repo": "juliamono",
-                "stars": 1687
+                "stars": 1687,
+                "topics": [
+                  "font",
+                  "fonts",
+                  "franklin",
+                  "julia",
+                  "julialang",
+                  "typography"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1582,12 +2358,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "monospace typeface designed for symbol-rich programming",
+                "homepage": null,
                 "id": 1087862764,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2026-06-17T17:34:57Z",
+                "open_issues": 6,
                 "owner": "sayyadirfanali",
                 "repo": "Myna",
-                "stars": 1631
+                "stars": 1631,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1598,12 +2379,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helvetica Monospace Coding Font",
+                "homepage": null,
                 "id": 542850483,
                 "language": "HTML",
+                "license": "OFL-1.1",
                 "last_commit": "2026-04-03T12:33:00Z",
+                "open_issues": 4,
                 "owner": "weiweihuanghuang",
                 "repo": "fragment-mono",
-                "stars": 932
+                "stars": 932,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1614,12 +2400,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A soft monospace variable font",
+                "homepage": "https://www.etceteratype.co/sono",
                 "id": 278444833,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2022-08-08T17:44:20Z",
+                "open_issues": 3,
                 "owner": "sursly",
                 "repo": "sono",
-                "stars": 554
+                "stars": 554,
+                "topics": [
+                  "font",
+                  "typography",
+                  "variable"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1630,12 +2425,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖊️ Standard Consolas font with FiraCode ligatures",
+                "homepage": null,
                 "id": 154674978,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-09T12:52:47Z",
+                "open_issues": 7,
                 "owner": "somq",
                 "repo": "consolas-ligaturized",
-                "stars": 453
+                "stars": 453,
+                "topics": [
+                  "consolas",
+                  "firacode",
+                  "font",
+                  "ligatures"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1646,12 +2451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A black letter for the text editor",
+                "homepage": null,
                 "id": 986500617,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-11-02T22:38:08Z",
+                "open_issues": 8,
                 "owner": "seeddisperser",
                 "repo": "kelmscott-mono",
-                "stars": 305
+                "stars": 305,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1662,12 +2472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GF font from Displaay",
+                "homepage": null,
                 "id": 350728897,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2021-06-04T19:41:25Z",
+                "open_issues": 3,
                 "owner": "displaay",
                 "repo": "Azeret",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1678,12 +2493,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple monospace font",
+                "homepage": null,
                 "id": 4615930,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2015-03-05T16:37:01Z",
+                "open_issues": 5,
                 "owner": "raphaelbastide",
                 "repo": "Whois-mono",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             }
@@ -1701,12 +2521,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Versatile typeface for code, from code.",
+                "homepage": "http://be5invis.github.io/Iosevka",
                 "id": 39315600,
                 "language": "JavaScript",
+                "license": "OFL-1.1",
                 "last_commit": "2026-08-29T00:25:33Z",
+                "open_issues": 101,
                 "owner": "be5invis",
                 "repo": "Iosevka",
-                "stars": 22687
+                "stars": 22687,
+                "topics": [
+                  "font",
+                  "iosevka",
+                  "ligatures",
+                  "monospace-font",
+                  "opentype-features",
+                  "programming-font",
+                  "programming-ligatures",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1717,12 +2551,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": " Noto fonts, except for CJK and emoji",
+                "homepage": "http://fonts.google.com/noto",
                 "id": 37085010,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2023-01-25T13:40:16Z",
+                "open_issues": 29,
                 "owner": "notofonts",
                 "repo": "noto-fonts",
-                "stars": 2503
+                "stars": 2503,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1733,12 +2572,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Libertinus font family",
+                "homepage": null,
                 "id": 10892932,
                 "language": "Spline Font Database",
+                "license": "OFL-1.1",
                 "last_commit": "2024-10-02T12:25:14Z",
+                "open_issues": 165,
                 "owner": "alerque",
                 "repo": "libertinus",
-                "stars": 1413
+                "stars": 1413,
+                "topics": [
+                  "font",
+                  "math",
+                  "opentype"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1749,12 +2597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reddit Sans. The typeface of the internet.",
+                "homepage": null,
                 "id": 689130301,
                 "language": "Pug",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-09T02:11:49Z",
+                "open_issues": 5,
                 "owner": "reddit",
                 "repo": "redditsans",
-                "stars": 464
+                "stars": 464,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1765,12 +2618,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fonts and UFO Masters of Inria Serif and Inria Sans Typeface",
+                "homepage": "https://black-foundry.com/work/inria/",
                 "id": 116013349,
                 "language": "HTML",
+                "license": "OFL-1.1",
                 "last_commit": "2021-12-08T05:49:01Z",
+                "open_issues": 6,
                 "owner": "BlackFoundryCom",
                 "repo": "InriaFonts",
-                "stars": 404
+                "stars": 404,
+                "topics": [
+                  "design",
+                  "fonts",
+                  "inria",
+                  "ofl",
+                  "typedesign",
+                  "typeface",
+                  "ufo"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1781,12 +2647,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 602721343,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2023-06-14T13:12:10Z",
+                "open_issues": 4,
                 "owner": "Instrument",
                 "repo": "instrument-sans",
-                "stars": 322
+                "stars": 322,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             }
@@ -1804,12 +2675,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The xkcd font",
+                "homepage": "https://ipython.org/xkcd-font/xkcd-script/",
                 "id": 12418387,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-09T03:41:53Z",
+                "open_issues": 20,
                 "owner": "ipython",
                 "repo": "xkcd-font",
-                "stars": 1276
+                "stars": 1276,
+                "topics": [
+                  "font",
+                  "mathjax-3",
+                  "xkcd"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1820,12 +2700,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typeface based on the historical eye charts and optotypes used by opticians world wide.",
+                "homepage": "http://optician-sans.com",
                 "id": 162098017,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2021-12-19T01:29:00Z",
+                "open_issues": 6,
                 "owner": "anewtypeofinterference",
                 "repo": "Optician-Sans",
-                "stars": 702
+                "stars": 702,
+                "topics": [
+                  "font",
+                  "opticians",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1836,12 +2725,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shantell Sans, from Shantell Martin, is a marker-style font built for creative expression, typographic play, and animation.",
+                "homepage": "https://shantellsans.com",
                 "id": 276137243,
                 "language": "HTML",
+                "license": "OFL-1.1",
                 "last_commit": "2024-06-17T18:12:29Z",
+                "open_issues": 7,
                 "owner": "arrowtype",
                 "repo": "shantell-sans",
-                "stars": 656
+                "stars": 656,
+                "topics": [
+                  "art",
+                  "font",
+                  "handwriting",
+                  "variablefonts"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1852,12 +2751,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Datalegreya, the typeface that melts text and data visualisation",
+                "homepage": null,
                 "id": 70789265,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-06T16:50:04Z",
+                "open_issues": 5,
                 "owner": "figs-lab",
                 "repo": "datalegreya",
-                "stars": 599
+                "stars": 599,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1868,12 +2772,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "What I intend to be an opensource font for dyslexics and for high readability",
+                "homepage": "http://dyslexicfonts.com",
                 "id": 3024900,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2025-08-11T20:43:09Z",
+                "open_issues": 16,
                 "owner": "antijingoist",
                 "repo": "open-dyslexic",
-                "stars": 560
+                "stars": 560,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1884,12 +2793,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ultra-bold, ultra-awesome slab serif typeface.",
+                "homepage": "http://theleagueofmoveabletype.com/chunk",
                 "id": 1801414,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-03-03T20:23:07Z",
+                "open_issues": 1,
                 "owner": "theleagueof",
                 "repo": "chunk",
-                "stars": 272
+                "stars": 272,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1900,12 +2814,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A font in the style of the New York Times masthead",
+                "homepage": null,
                 "id": 179080837,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2021-12-06T13:56:15Z",
+                "open_issues": 9,
                 "owner": "ctrlcctrlv",
                 "repo": "chomsky",
-                "stars": 264
+                "stars": 264,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1916,12 +2835,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Vega font - uses Ligatures & Contextual Alternates to add a little glitch to your world",
+                "homepage": "https://vegaprotocol.github.io/alpha-lyrae/",
                 "id": 431435639,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-23T09:37:01Z",
+                "open_issues": 0,
                 "owner": "vegaprotocol",
                 "repo": "alpha-lyrae",
-                "stars": 224
+                "stars": 224,
+                "topics": [
+                  "font",
+                  "typeface",
+                  "vega-protocol"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1932,12 +2860,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Formera (aka FuturaRenner) family is a digital version of Futura lead character belonging to the typography department of Ecole Nationale Supérieure des Arts de la Cambre, and probably the first draft of Futura as we know it.",
+                "homepage": "https://noirblancrouge.com/fonts/futura-renner/",
                 "id": 7667637,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2025-02-14T21:13:42Z",
+                "open_issues": 0,
                 "owner": "noirblancrouge",
                 "repo": "Formera",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "font",
+                  "fonts",
+                  "graphic-design",
+                  "typeface",
+                  "typography"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1948,12 +2887,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bad-ass, unholy-mother-shut-your-mouth stencil sans-serif.",
+                "homepage": "http://theleagueofmoveabletype.com/blackout",
                 "id": 1801470,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-19T15:42:34Z",
+                "open_issues": 3,
                 "owner": "theleagueof",
                 "repo": "blackout",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1964,12 +2908,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Display typeface",
+                "homepage": null,
                 "id": 232574611,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2020-12-27T03:01:43Z",
+                "open_issues": 2,
                 "owner": "EthanNakache",
                 "repo": "Sprat-type",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "display",
+                  "ethan",
+                  "font",
+                  "font-awesome",
+                  "font-face",
+                  "fonts",
+                  "letters",
+                  "nakache",
+                  "sprat",
+                  "thin",
+                  "type",
+                  "typedesign",
+                  "typeface",
+                  "typography",
+                  "weight",
+                  "workshop"
+                ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1980,12 +2946,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bold, painted face for the rocker within.",
+                "homepage": "http://theleagueofmoveabletype.com/knewave",
                 "id": 2752271,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-19T15:42:25Z",
+                "open_issues": 4,
                 "owner": "theleagueof",
                 "repo": "knewave",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -1996,12 +2967,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern, coquettish script font that sits somewhere between your high school girlfriend’s love notes and handwritten letters from the '20s.",
+                "homepage": "http://theleagueofmoveabletype.com/league-script-number-one",
                 "id": 1801749,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-19T15:42:19Z",
+                "open_issues": 4,
                 "owner": "theleagueof",
                 "repo": "league-script-number-one",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -2012,12 +2988,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fun rounded display face that’s great for headlines.",
+                "homepage": "http://theleagueofmoveabletype.com/sniglet",
                 "id": 1801406,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-19T15:42:11Z",
+                "open_issues": 1,
                 "owner": "theleagueof",
                 "repo": "sniglet",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -2028,12 +3009,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The latest version of The Lobster Font",
+                "homepage": null,
                 "id": 38460061,
                 "language": "HTML",
+                "license": "OFL-1.1",
                 "last_commit": "2023-10-05T09:30:05Z",
+                "open_issues": 2,
                 "owner": "impallari",
                 "repo": "The-Lobster-Font",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -2044,12 +3030,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A free font, handmade from chalk on a board to vectors/pixels on your screen.",
+                "homepage": null,
                 "id": 15117013,
                 "language": "CSS",
+                "license": "OFL-1.1",
                 "last_commit": "2013-12-11T19:47:04Z",
+                "open_issues": 0,
                 "owner": "awp",
                 "repo": "chawp",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -2060,12 +3051,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collaborative typeface made by designers in Upstate New York!",
+                "homepage": null,
                 "id": 66231900,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-07T21:04:22Z",
+                "open_issues": 0,
                 "owner": "sursly",
                 "repo": "excelsiorama",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -2076,12 +3072,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source round monospace space font. ",
+                "homepage": null,
                 "id": 20100781,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2021-06-18T01:12:55Z",
+                "open_issues": 0,
                 "owner": "sursly",
                 "repo": "taurusmono",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             },
@@ -2092,12 +3093,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "christopharii font (regular / bold)",
+                "homepage": null,
                 "id": 17299974,
                 "language": null,
+                "license": null,
                 "last_commit": "2014-03-07T17:30:53Z",
+                "open_issues": 0,
                 "owner": "awp",
                 "repo": "christopharii",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
             }
@@ -2111,15 +3117,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:23:05.427Z",
+    "last_updated": "2026-08-29T04:53:28.768Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of open resources for web designers",
+      "homepage": null,
       "id": 50173266,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-27T06:37:07Z",
+      "open_issues": 1,
       "owner": "oscarotero",
       "repo": "awesome-design",
-      "stars": 150
+      "stars": 150,
+      "topics": [
+        "awesome-list",
+        "design",
+        "fonts",
+        "icons",
+        "logos",
+        "resources"
+      ]
     },
     "original_repository_sha": "299bd1bd5635d825fab01575336e721e00298fe6",
     "enhanced_repository": "enhansome/enhansome-design",
