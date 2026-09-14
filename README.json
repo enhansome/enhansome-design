@@ -19,7 +19,7 @@
             "open_issues": 510,
             "owner": "feathericons",
             "repo": "feather",
-            "stars": 25993,
+            "stars": 25992,
             "topics": [
               "icons",
               "javascript",
@@ -41,10 +41,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-11T06:47:35Z",
-            "open_issues": 105,
+            "open_issues": 110,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21672,
+            "stars": 21684,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -80,7 +80,7 @@
             "open_issues": 1118,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11309,
+            "stars": 11311,
             "topics": [
               "android",
               "bootstrap",
@@ -232,7 +232,7 @@
             "open_issues": 956,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25842,
+            "stars": 25850,
             "topics": [
               "brand",
               "brand-assets",
@@ -301,7 +301,7 @@
             "open_issues": 101,
             "owner": "gilbarbara",
             "repo": "logos",
-            "stars": 6818,
+            "stars": 6820,
             "topics": [
               "logos",
               "svg"
@@ -407,7 +407,7 @@
                 "open_issues": 152,
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 19879,
+                "stars": 19885,
                 "topics": [
                   "design",
                   "font",
@@ -428,11 +428,11 @@
                 "id": 105702631,
                 "language": "CSS",
                 "license": "OFL-1.1",
-                "last_commit": "2026-09-09T16:01:00Z",
-                "open_issues": 83,
+                "last_commit": "2026-09-14T17:24:05Z",
+                "open_issues": 81,
                 "owner": "IBM",
                 "repo": "plex",
-                "stars": 11641,
+                "stars": 11644,
                 "topics": [
                   "design",
                   "font",
@@ -509,7 +509,7 @@
                 "open_issues": 11,
                 "owner": "iaolo",
                 "repo": "iA-Fonts",
-                "stars": 4155,
+                "stars": 4156,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -654,7 +654,7 @@
                 "open_issues": 42,
                 "owner": "adobe-fonts",
                 "repo": "source-sans",
-                "stars": 3741,
+                "stars": 3742,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -682,7 +682,7 @@
                 "open_issues": 46,
                 "owner": "RedHatOfficial",
                 "repo": "Overpass",
-                "stars": 2096,
+                "stars": 2097,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -703,7 +703,7 @@
                 "open_issues": 22,
                 "owner": "larsenwork",
                 "repo": "Gidole",
-                "stars": 1895,
+                "stars": 1896,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -724,7 +724,7 @@
                 "open_issues": 15,
                 "owner": "floriankarsten",
                 "repo": "space-grotesk",
-                "stars": 1823,
+                "stars": 1824,
                 "topics": [
                   "font",
                   "latin",
@@ -788,6 +788,27 @@
             },
             {
               "node_type": "item",
+              "title": "Figtree",
+              "description": "A friendly, simple geometric sans serif font :+1:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A friendly, simple geometric sans serif font",
+                "homepage": null,
+                "id": 370580662,
+                "language": null,
+                "license": "OFL-1.1",
+                "last_commit": "2025-04-04T23:14:38Z",
+                "open_issues": 20,
+                "owner": "erikdkennedy",
+                "repo": "figtree",
+                "stars": 828,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T05:49:41.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "Barlow",
               "description": null,
               "children": [],
@@ -803,27 +824,6 @@
                 "owner": "jpt",
                 "repo": "barlow",
                 "stars": 827,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:49:41.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Figtree",
-              "description": "A friendly, simple geometric sans serif font :+1:",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A friendly, simple geometric sans serif font",
-                "homepage": null,
-                "id": 370580662,
-                "language": null,
-                "license": "OFL-1.1",
-                "last_commit": "2025-04-04T23:14:38Z",
-                "open_issues": 20,
-                "owner": "erikdkennedy",
-                "repo": "figtree",
-                "stars": 826,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1176,6 +1176,32 @@
             },
             {
               "node_type": "item",
+              "title": "Wonder Unit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free and open source sans-serif font, brought to you by Wonder Unit.",
+                "homepage": "https://wonderunit.com",
+                "id": 109546082,
+                "language": "Python",
+                "license": "OFL-1.1",
+                "last_commit": "2018-04-03T14:39:51Z",
+                "open_issues": 3,
+                "owner": "wonderunit",
+                "repo": "font-wonder-unit",
+                "stars": 86,
+                "topics": [
+                  "font",
+                  "fonts",
+                  "storyboard",
+                  "typeface"
+                ]
+              },
+              "first_seen": "2026-08-28T05:49:41.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "Secuela",
               "description": "+1:",
               "children": [],
@@ -1207,32 +1233,6 @@
                   "typeface",
                   "variable-fonts",
                   "webfonts"
-                ]
-              },
-              "first_seen": "2026-08-28T05:49:41.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Wonder Unit",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Free and open source sans-serif font, brought to you by Wonder Unit.",
-                "homepage": "https://wonderunit.com",
-                "id": 109546082,
-                "language": "Python",
-                "license": "OFL-1.1",
-                "last_commit": "2018-04-03T14:39:51Z",
-                "open_issues": 3,
-                "owner": "wonderunit",
-                "repo": "font-wonder-unit",
-                "stars": 85,
-                "topics": [
-                  "font",
-                  "fonts",
-                  "storyboard",
-                  "typeface"
                 ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1323,7 +1323,7 @@
                 "open_issues": 44,
                 "owner": "adobe-fonts",
                 "repo": "source-serif",
-                "stars": 2373,
+                "stars": 2375,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1351,7 +1351,7 @@
                 "open_issues": 18,
                 "owner": "edwardtufte",
                 "repo": "et-book",
-                "stars": 1424,
+                "stars": 1425,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1516,7 +1516,7 @@
                 "open_issues": 0,
                 "owner": "noirblancrouge",
                 "repo": "YoungSerif",
-                "stars": 472,
+                "stars": 473,
                 "topics": [
                   "font",
                   "fonts",
@@ -1943,7 +1943,7 @@
                 "open_issues": 428,
                 "owner": "tonsky",
                 "repo": "FiraCode",
-                "stars": 82013,
+                "stars": 82015,
                 "topics": [
                   "font",
                   "ligatures",
@@ -1968,7 +1968,7 @@
                 "open_issues": 162,
                 "owner": "microsoft",
                 "repo": "cascadia-code",
-                "stars": 27885,
+                "stars": 27886,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2017,7 +2017,7 @@
                 "open_issues": 153,
                 "owner": "source-foundry",
                 "repo": "Hack",
-                "stars": 17342,
+                "stars": 17344,
                 "topics": [
                   "developer",
                   "developer-tools",
@@ -2042,11 +2042,11 @@
                 "id": 626613254,
                 "language": null,
                 "license": "OFL-1.1",
-                "last_commit": "2026-09-09T22:19:30Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-14T17:52:13Z",
+                "open_issues": 0,
                 "owner": "intel",
                 "repo": "intel-one-mono",
-                "stars": 10026,
+                "stars": 10093,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2088,7 +2088,7 @@
                 "open_issues": 71,
                 "owner": "belluzj",
                 "repo": "fantasque-sans",
-                "stars": 7443,
+                "stars": 7447,
                 "topics": [
                   "font",
                   "monospace-font"
@@ -2112,7 +2112,7 @@
                 "open_issues": 71,
                 "owner": "belluzj",
                 "repo": "fantasque-sans",
-                "stars": 7443,
+                "stars": 7447,
                 "topics": [
                   "font",
                   "monospace-font"
@@ -2245,7 +2245,7 @@
                 "open_issues": 12,
                 "owner": "0xType",
                 "repo": "0xProto",
-                "stars": 2885,
+                "stars": 2886,
                 "topics": [
                   "design",
                   "font",
@@ -2313,7 +2313,7 @@
                 "open_issues": 5,
                 "owner": "mishamyrt",
                 "repo": "Lilex",
-                "stars": 1752,
+                "stars": 1754,
                 "topics": [
                   "font",
                   "ligatures",
@@ -2530,7 +2530,7 @@
                 "open_issues": 101,
                 "owner": "be5invis",
                 "repo": "Iosevka",
-                "stars": 22744,
+                "stars": 22749,
                 "topics": [
                   "font",
                   "iosevka",
@@ -2684,7 +2684,7 @@
                 "open_issues": 20,
                 "owner": "ipython",
                 "repo": "xkcd-font",
-                "stars": 1367,
+                "stars": 1378,
                 "topics": [
                   "font",
                   "mathjax-3",
@@ -3117,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T23:33:17.198Z",
+    "last_updated": "2026-09-14T23:59:12.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of open resources for web designers",
