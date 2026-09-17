@@ -19,7 +19,7 @@
             "open_issues": 510,
             "owner": "feathericons",
             "repo": "feather",
-            "stars": 25995,
+            "stars": 25996,
             "topics": [
               "icons",
               "javascript",
@@ -44,7 +44,7 @@
             "open_issues": 111,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21698,
+            "stars": 21705,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -80,7 +80,7 @@
             "open_issues": 1120,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11311,
+            "stars": 11312,
             "topics": [
               "android",
               "bootstrap",
@@ -110,7 +110,7 @@
             "open_issues": 57,
             "owner": "akveo",
             "repo": "eva-icons",
-            "stars": 8815,
+            "stars": 8814,
             "topics": [
               "icon",
               "icon-font",
@@ -228,8 +228,8 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-13T05:04:35Z",
-            "open_issues": 957,
+            "last_commit": "2026-09-17T01:05:10Z",
+            "open_issues": 958,
             "owner": "simple-icons",
             "repo": "simple-icons",
             "stars": 25871,
@@ -273,7 +273,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15396,
+            "stars": 15397,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -298,10 +298,10 @@
             "language": "SVG",
             "license": "CC0-1.0",
             "last_commit": "2026-09-06T01:03:23Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "gilbarbara",
             "repo": "logos",
-            "stars": 6821,
+            "stars": 6823,
             "topics": [
               "logos",
               "svg"
@@ -325,7 +325,7 @@
             "open_issues": 9,
             "owner": "alrra",
             "repo": "browser-logos",
-            "stars": 6043,
+            "stars": 6044,
             "topics": [
               "browser-logos",
               "browsers",
@@ -404,10 +404,10 @@
                 "language": "Python",
                 "license": "OFL-1.1",
                 "last_commit": "2024-11-19T03:16:13Z",
-                "open_issues": 152,
+                "open_issues": 154,
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 19888,
+                "stars": 19890,
                 "topics": [
                   "design",
                   "font",
@@ -429,7 +429,7 @@
                 "language": "CSS",
                 "license": "OFL-1.1",
                 "last_commit": "2026-09-15T12:27:05Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "IBM",
                 "repo": "plex",
                 "stars": 11643,
@@ -509,7 +509,7 @@
                 "open_issues": 11,
                 "owner": "iaolo",
                 "repo": "iA-Fonts",
-                "stars": 4158,
+                "stars": 4159,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -654,7 +654,7 @@
                 "open_issues": 42,
                 "owner": "adobe-fonts",
                 "repo": "source-sans",
-                "stars": 3742,
+                "stars": 3743,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -865,7 +865,7 @@
                 "open_issues": 14,
                 "owner": "theleagueof",
                 "repo": "league-spartan",
-                "stars": 638,
+                "stars": 639,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1351,7 +1351,7 @@
                 "open_issues": 18,
                 "owner": "edwardtufte",
                 "repo": "et-book",
-                "stars": 1425,
+                "stars": 1426,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1396,7 +1396,7 @@
                 "open_issues": 38,
                 "owner": "undercasetype",
                 "repo": "Fraunces",
-                "stars": 756,
+                "stars": 757,
                 "topics": [
                   "font",
                   "google-fonts",
@@ -1491,7 +1491,7 @@
                 "open_issues": 58,
                 "owner": "skosch",
                 "repo": "Crimson",
-                "stars": 564,
+                "stars": 565,
                 "topics": [
                   "font",
                   "ttf",
@@ -1636,7 +1636,7 @@
                 "open_issues": 7,
                 "owner": "productiontype",
                 "repo": "Newsreader",
-                "stars": 250,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1943,7 +1943,7 @@
                 "open_issues": 428,
                 "owner": "tonsky",
                 "repo": "FiraCode",
-                "stars": 82019,
+                "stars": 82017,
                 "topics": [
                   "font",
                   "ligatures",
@@ -1968,7 +1968,7 @@
                 "open_issues": 163,
                 "owner": "microsoft",
                 "repo": "cascadia-code",
-                "stars": 27892,
+                "stars": 27890,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1989,7 +1989,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20445,
+                "stars": 20447,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -2017,7 +2017,7 @@
                 "open_issues": 153,
                 "owner": "source-foundry",
                 "repo": "Hack",
-                "stars": 17349,
+                "stars": 17350,
                 "topics": [
                   "developer",
                   "developer-tools",
@@ -2046,7 +2046,7 @@
                 "open_issues": 0,
                 "owner": "intel",
                 "repo": "intel-one-mono",
-                "stars": 10131,
+                "stars": 10136,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2136,7 +2136,7 @@
                 "open_issues": 44,
                 "owner": "i-tu",
                 "repo": "Hasklig",
-                "stars": 5712,
+                "stars": 5711,
                 "topics": [
                   "afdko",
                   "font",
@@ -2163,7 +2163,7 @@
                 "open_issues": 44,
                 "owner": "i-tu",
                 "repo": "Hasklig",
-                "stars": 5712,
+                "stars": 5711,
                 "topics": [
                   "afdko",
                   "font",
@@ -2190,7 +2190,7 @@
                 "open_issues": 15,
                 "owner": "madmalik",
                 "repo": "mononoki",
-                "stars": 4636,
+                "stars": 4635,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2242,10 +2242,10 @@
                 "language": "Python",
                 "license": "OFL-1.1",
                 "last_commit": "2026-03-21T10:01:37Z",
-                "open_issues": 12,
+                "open_issues": 14,
                 "owner": "0xType",
                 "repo": "0xProto",
-                "stars": 2892,
+                "stars": 2893,
                 "topics": [
                   "design",
                   "font",
@@ -2271,7 +2271,7 @@
                 "open_issues": 24,
                 "owner": "andreberg",
                 "repo": "Meslo-Font",
-                "stars": 2739,
+                "stars": 2738,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2292,7 +2292,7 @@
                 "open_issues": 8,
                 "owner": "evilmartians",
                 "repo": "mono",
-                "stars": 2734,
+                "stars": 2735,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2313,7 +2313,7 @@
                 "open_issues": 5,
                 "owner": "mishamyrt",
                 "repo": "Lilex",
-                "stars": 1757,
+                "stars": 1760,
                 "topics": [
                   "font",
                   "ligatures",
@@ -2409,7 +2409,7 @@
                 "open_issues": 3,
                 "owner": "sursly",
                 "repo": "sono",
-                "stars": 556,
+                "stars": 557,
                 "topics": [
                   "font",
                   "typography",
@@ -2526,11 +2526,11 @@
                 "id": 39315600,
                 "language": "JavaScript",
                 "license": "OFL-1.1",
-                "last_commit": "2026-09-13T21:33:49Z",
-                "open_issues": 103,
+                "last_commit": "2026-09-17T00:24:34Z",
+                "open_issues": 102,
                 "owner": "be5invis",
                 "repo": "Iosevka",
-                "stars": 22759,
+                "stars": 22760,
                 "topics": [
                   "font",
                   "iosevka",
@@ -2656,7 +2656,7 @@
                 "open_issues": 4,
                 "owner": "Instrument",
                 "repo": "instrument-sans",
-                "stars": 329,
+                "stars": 330,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2684,7 +2684,7 @@
                 "open_issues": 20,
                 "owner": "ipython",
                 "repo": "xkcd-font",
-                "stars": 1386,
+                "stars": 1391,
                 "topics": [
                   "font",
                   "mathjax-3",
@@ -2709,7 +2709,7 @@
                 "open_issues": 6,
                 "owner": "anewtypeofinterference",
                 "repo": "Optician-Sans",
-                "stars": 703,
+                "stars": 702,
                 "topics": [
                   "font",
                   "opticians",
@@ -2734,7 +2734,7 @@
                 "open_issues": 7,
                 "owner": "arrowtype",
                 "repo": "shantell-sans",
-                "stars": 657,
+                "stars": 658,
                 "topics": [
                   "art",
                   "font",
@@ -3117,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:52:00.679Z",
+    "last_updated": "2026-09-17T23:41:50.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of open resources for web designers",
