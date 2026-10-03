@@ -44,7 +44,7 @@
             "open_issues": 88,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21877,
+            "stars": 21882,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -407,7 +407,7 @@
                 "open_issues": 143,
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 19929,
+                "stars": 19930,
                 "topics": [
                   "design",
                   "font",
@@ -419,7 +419,7 @@
             {
               "node_type": "item",
               "title": "IBM Plex",
-              "description": null,
+              "description": "IBM/plex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -468,7 +468,7 @@
             {
               "node_type": "item",
               "title": "Public Sans",
-              "description": null,
+              "description": "uswds/public-sans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -496,7 +496,7 @@
             {
               "node_type": "item",
               "title": "iA Writer Duospace",
-              "description": null,
+              "description": "iaolo/iA-Fonts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -538,7 +538,7 @@
             {
               "node_type": "item",
               "title": "Salesforce Sans",
-              "description": null,
+              "description": "salesforce-ux/design-system",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -613,7 +613,7 @@
             {
               "node_type": "item",
               "title": "18F/18franklin",
-              "description": null,
+              "description": "uswds/public-sans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -641,7 +641,7 @@
             {
               "node_type": "item",
               "title": "adobe-fonts/source-sans-pro",
-              "description": null,
+              "description": "adobe-fonts/source-sans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -669,7 +669,7 @@
             {
               "node_type": "item",
               "title": "RedHatBrand/overpass",
-              "description": null,
+              "description": "RedHatOfficial/Overpass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -690,7 +690,7 @@
             {
               "node_type": "item",
               "title": "larsenwork/Gidole",
-              "description": null,
+              "description": "larsenwork/Gidole",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -711,7 +711,7 @@
             {
               "node_type": "item",
               "title": "Space Grotesk",
-              "description": "+1:",
+              "description": "floriankarsten/space-grotesk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -738,7 +738,7 @@
             {
               "node_type": "item",
               "title": "weiweihuanghuang/Work-Sans",
-              "description": null,
+              "description": "weiweihuanghuang/Work-Sans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -768,7 +768,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/league-gothic",
-              "description": null,
+              "description": "theleagueof/league-gothic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -810,7 +810,7 @@
             {
               "node_type": "item",
               "title": "Barlow",
-              "description": null,
+              "description": "jpt/barlow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -852,7 +852,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/league-spartan",
-              "description": null,
+              "description": "theleagueof/league-spartan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -873,7 +873,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/ostrich-sans",
-              "description": null,
+              "description": "theleagueof/ostrich-sans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -894,7 +894,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/junction",
-              "description": null,
+              "description": "theleagueof/junction",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -915,7 +915,7 @@
             {
               "node_type": "item",
               "title": "impallari/Libre-Franklin",
-              "description": null,
+              "description": "impallari/Libre-Franklin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -936,7 +936,7 @@
             {
               "node_type": "item",
               "title": "impallari/Raleway",
-              "description": null,
+              "description": "impallari/Raleway",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -957,7 +957,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/orbitron",
-              "description": null,
+              "description": "theleagueof/orbitron",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -999,7 +999,7 @@
             {
               "node_type": "item",
               "title": "Techna Sans",
-              "description": null,
+              "description": "somefreefonts/techna-sans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1023,7 +1023,7 @@
             {
               "node_type": "item",
               "title": "Violet Sans",
-              "description": null,
+              "description": "violetoffice/violet_sans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1072,7 +1072,7 @@
             {
               "node_type": "item",
               "title": "impallari/Cabin",
-              "description": null,
+              "description": "impallari/Cabin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1093,7 +1093,7 @@
             {
               "node_type": "item",
               "title": "Schibsted Grotesk",
-              "description": "+1:",
+              "description": "schibsted/schibsted-grotesk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1114,7 +1114,7 @@
             {
               "node_type": "item",
               "title": "vernnobile/OswaldFont",
-              "description": null,
+              "description": "vernnobile/OswaldFont",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1135,7 +1135,7 @@
             {
               "node_type": "item",
               "title": "vernnobile/MuliFont",
-              "description": null,
+              "description": "vernnobile/MuliFont",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1156,7 +1156,7 @@
             {
               "node_type": "item",
               "title": "impallari/Encode-Sans",
-              "description": null,
+              "description": "impallari/Encode-Sans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1177,7 +1177,7 @@
             {
               "node_type": "item",
               "title": "Wonder Unit",
-              "description": null,
+              "description": "wonderunit/font-wonder-unit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1203,7 +1203,7 @@
             {
               "node_type": "item",
               "title": "Secuela",
-              "description": "+1:",
+              "description": "defharo/secuela-variable",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1240,7 +1240,7 @@
             {
               "node_type": "item",
               "title": "sursly/katahdin",
-              "description": null,
+              "description": "sursly/katahdin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1261,7 +1261,7 @@
             {
               "node_type": "item",
               "title": "impallari/Amiko-Devanagari",
-              "description": null,
+              "description": "impallari/Amiko-Devanagari",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1282,7 +1282,7 @@
             {
               "node_type": "item",
               "title": "itfoundry/hind-vadodara",
-              "description": null,
+              "description": "itfoundry/hind-vadodara",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1310,7 +1310,7 @@
             {
               "node_type": "item",
               "title": "adobe-fonts/source-serif-pro",
-              "description": null,
+              "description": "adobe-fonts/source-serif",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1338,7 +1338,7 @@
             {
               "node_type": "item",
               "title": "edwardtufte/et-book",
-              "description": null,
+              "description": "edwardtufte/et-book",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1359,7 +1359,7 @@
             {
               "node_type": "item",
               "title": "georgd/EB-Garamond",
-              "description": null,
+              "description": "georgd/EB-Garamond",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1383,7 +1383,7 @@
             {
               "node_type": "item",
               "title": "undercasetype/Frances",
-              "description": "+1:",
+              "description": "undercasetype/Fraunces",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1408,7 +1408,7 @@
             {
               "node_type": "item",
               "title": "CatharsisFonts/Cormorant",
-              "description": null,
+              "description": "CatharsisFonts/Cormorant",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1421,7 +1421,7 @@
                 "open_issues": 22,
                 "owner": "CatharsisFonts",
                 "repo": "Cormorant",
-                "stars": 641,
+                "stars": 642,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1429,7 +1429,7 @@
             {
               "node_type": "item",
               "title": "clauseggers/Playfair-Display",
-              "description": null,
+              "description": "clauseggers/Playfair",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1456,7 +1456,7 @@
             {
               "node_type": "item",
               "title": "skosch/Crimson",
-              "description": null,
+              "description": "skosch/Crimson",
               "children": [
                 {
                   "node_type": "item",
@@ -1503,7 +1503,7 @@
             {
               "node_type": "item",
               "title": "uplaod/YoungSerif",
-              "description": null,
+              "description": "noirblancrouge/YoungSerif",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1530,7 +1530,7 @@
             {
               "node_type": "item",
               "title": "mozilla/zilla-slab",
-              "description": null,
+              "description": "mozilla/zilla-slab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1556,7 +1556,7 @@
             {
               "node_type": "item",
               "title": "klepas/open-baskerville",
-              "description": null,
+              "description": "klepas/open-baskerville",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1581,7 +1581,7 @@
             {
               "node_type": "item",
               "title": "impallari/Libre-Baskerville",
-              "description": null,
+              "description": "impallari/Libre-Baskerville",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1602,7 +1602,7 @@
             {
               "node_type": "item",
               "title": "productiontype/Spectral",
-              "description": null,
+              "description": "productiontype/Spectral",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1623,7 +1623,7 @@
             {
               "node_type": "item",
               "title": "productiontype/NewsReader",
-              "description": "+1:",
+              "description": "productiontype/Newsreader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1644,7 +1644,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/fanwood",
-              "description": null,
+              "description": "theleagueof/fanwood",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1665,7 +1665,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/sorts-mill-goudy",
-              "description": null,
+              "description": "theleagueof/sorts-mill-goudy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1686,7 +1686,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/goudy-bookletter-1911",
-              "description": null,
+              "description": "theleagueof/goudy-bookletter-1911",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1707,7 +1707,7 @@
             {
               "node_type": "item",
               "title": "clauseggers/Inknut-Antiqua",
-              "description": null,
+              "description": "clauseggers/Inknut-Antiqua",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1734,7 +1734,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/linden-hill",
-              "description": null,
+              "description": "theleagueof/linden-hill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1755,7 +1755,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/prociono",
-              "description": null,
+              "description": "theleagueof/prociono",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1776,7 +1776,7 @@
             {
               "node_type": "item",
               "title": "antonxheight/Arvo",
-              "description": null,
+              "description": "antonxheight/Arvo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1797,7 +1797,7 @@
             {
               "node_type": "item",
               "title": "RingoSeeber/Petrona",
-              "description": "+1:",
+              "description": "RingoSeeber/Petrona",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1818,7 +1818,7 @@
             {
               "node_type": "item",
               "title": "impallari/Libre-Caslon-Text",
-              "description": null,
+              "description": "impallari/Libre-Caslon-Text",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1839,7 +1839,7 @@
             {
               "node_type": "item",
               "title": "mjlagattuta/Hepta-Slab",
-              "description": null,
+              "description": "mjlagattuta/Hepta-Slab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1860,7 +1860,7 @@
             {
               "node_type": "item",
               "title": "impallari/Libre-Bodoni",
-              "description": null,
+              "description": "impallari/Libre-Bodoni",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1881,7 +1881,7 @@
             {
               "node_type": "item",
               "title": "impallari/Libre-Clarendon",
-              "description": null,
+              "description": "impallari/Libre-Clarendon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1902,7 +1902,7 @@
             {
               "node_type": "item",
               "title": "impallari/Libre-Caslon-Display",
-              "description": null,
+              "description": "impallari/Libre-Caslon-Display",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1968,7 +1968,7 @@
                 "open_issues": 163,
                 "owner": "microsoft",
                 "repo": "cascadia-code",
-                "stars": 27908,
+                "stars": 27907,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2017,7 +2017,7 @@
                 "open_issues": 155,
                 "owner": "source-foundry",
                 "repo": "Hack",
-                "stars": 17362,
+                "stars": 17363,
                 "topics": [
                   "developer",
                   "developer-tools",
@@ -2530,7 +2530,7 @@
                 "open_issues": 98,
                 "owner": "be5invis",
                 "repo": "Iosevka",
-                "stars": 22805,
+                "stars": 22807,
                 "topics": [
                   "font",
                   "iosevka",
@@ -2547,7 +2547,7 @@
             {
               "node_type": "item",
               "title": "googlei18n/noto-fonts",
-              "description": null,
+              "description": "notofonts/noto-fonts",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2568,7 +2568,7 @@
             {
               "node_type": "item",
               "title": "khaledhosny/libertinus",
-              "description": null,
+              "description": "alerque/libertinus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2614,7 +2614,7 @@
             {
               "node_type": "item",
               "title": "Inria",
-              "description": null,
+              "description": "BlackFoundryCom/InriaFonts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2671,7 +2671,7 @@
             {
               "node_type": "item",
               "title": "ipython/xkcd-font",
-              "description": null,
+              "description": "ipython/xkcd-font",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2747,7 +2747,7 @@
             {
               "node_type": "item",
               "title": "figs-lab/datalegreya",
-              "description": null,
+              "description": "figs-lab/datalegreya",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2768,7 +2768,7 @@
             {
               "node_type": "item",
               "title": "antijingoist/open-dyslexic",
-              "description": null,
+              "description": "antijingoist/open-dyslexic",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2789,7 +2789,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/chunk",
-              "description": null,
+              "description": "theleagueof/chunk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2856,7 +2856,7 @@
             {
               "node_type": "item",
               "title": "uplaod/FuturaRenner",
-              "description": null,
+              "description": "noirblancrouge/Formera",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2883,7 +2883,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/blackout",
-              "description": null,
+              "description": "theleagueof/blackout",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2942,7 +2942,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/knewave",
-              "description": null,
+              "description": "theleagueof/knewave",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2963,7 +2963,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/league-script-number-one",
-              "description": null,
+              "description": "theleagueof/league-script-number-one",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2984,7 +2984,7 @@
             {
               "node_type": "item",
               "title": "theleagueof/sniglet",
-              "description": null,
+              "description": "theleagueof/sniglet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3005,7 +3005,7 @@
             {
               "node_type": "item",
               "title": "impallari/The-Lobster-Font",
-              "description": null,
+              "description": "impallari/The-Lobster-Font",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3026,7 +3026,7 @@
             {
               "node_type": "item",
               "title": "awp/chawp",
-              "description": null,
+              "description": "awp/chawp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3047,7 +3047,7 @@
             {
               "node_type": "item",
               "title": "sursly/excelsiorama",
-              "description": null,
+              "description": "sursly/excelsiorama",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3068,7 +3068,7 @@
             {
               "node_type": "item",
               "title": "sursly/taurusmono",
-              "description": null,
+              "description": "sursly/taurusmono",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3089,7 +3089,7 @@
             {
               "node_type": "item",
               "title": "awp/christopharii",
-              "description": null,
+              "description": "awp/christopharii",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3117,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:44:47.877Z",
+    "last_updated": "2026-10-03T04:45:31.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of open resources for web designers",
