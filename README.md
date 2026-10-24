@@ -32,11 +32,11 @@
 ## SVG Icons
 
 * [colebemis/feather](https://github.com/colebemis/feather) ⭐ 26,020 | 🐛 506 | 🌐 JavaScript | 📅 2025-03-11 Simply beautiful open source icons
-* [tabler-icons](https://github.com/tabler/tabler-icons) ⭐ 22,431 | 🐛 92 | 🌐 JavaScript | 📅 2026-10-23 A set of over 300 free MIT-licensed high-quality SVG icons
-* [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) ⭐ 11,316 | 🐛 1,129 | 📅 2025-01-20 2000+ Material Design Icons from the Community
+* [tabler-icons](https://github.com/tabler/tabler-icons) ⭐ 22,444 | 🐛 92 | 🌐 JavaScript | 📅 2026-10-23 A set of over 300 free MIT-licensed high-quality SVG icons
+* [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) ⭐ 11,317 | 🐛 1,129 | 📅 2025-01-20 2000+ Material Design Icons from the Community
 * [akveo/eva-icons](https://github.com/akveo/eva-icons) ⭐ 8,812 | 🐛 57 | 🌐 TypeScript | 📅 2023-03-04 A pack of more than 480 beautifully crafted Open Source icons
 * [bytesize-icons](https://github.com/danklammer/bytesize-icons) ⭐ 3,913 | 🐛 7 | 📅 2022-10-10 Tiny style-controlled SVG iconset (92 icons, 10kb)
-* [ikonate](https://github.com/mikolajdobrucki/ikonate) ⭐ 3,584 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-07 Fully customisable & accessible vector icons
+* [ikonate](https://github.com/mikolajdobrucki/ikonate) ⭐ 3,585 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-07 Fully customisable & accessible vector icons
 * [xtoolkit/Micon](https://github.com/xtoolkit/Micon) ⭐ 199 | 🐛 3 | 🌐 CSS | 📅 2019-02-18 Windows 10 icons
 * [ionicons](http://ionicons.com/) The premium icon font for Ionic
 * [linear icons](https://linearicons.com/free)
@@ -48,9 +48,9 @@
 
 ## Logos
 
-* [danleech/simple-icons](https://github.com/danleech/simple-icons) ⭐ 26,067 | 🐛 998 | 🌐 JavaScript | 📅 2026-10-23 SVG icons for popular brands <https://simpleicons.org>
-* [edent/SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons) ⭐ 15,401 | 🐛 35 | 🌐 Python | 📅 2026-05-18 Under 1KB each! Super Tiny Social Icons are miniscule SVG versions of your favourite logos
-* [gilbarbara/logos](https://github.com/gilbarbara/logos) ⭐ 6,846 | 🐛 89 | 🌐 SVG | 📅 2026-10-17 A huge collection of SVG logos <http://svgporn.com/>
+* [danleech/simple-icons](https://github.com/danleech/simple-icons) ⭐ 26,076 | 🐛 997 | 🌐 JavaScript | 📅 2026-10-24 SVG icons for popular brands <https://simpleicons.org>
+* [edent/SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons) ⭐ 15,403 | 🐛 35 | 🌐 Python | 📅 2026-05-18 Under 1KB each! Super Tiny Social Icons are miniscule SVG versions of your favourite logos
+* [gilbarbara/logos](https://github.com/gilbarbara/logos) ⭐ 6,848 | 🐛 89 | 🌐 SVG | 📅 2026-10-17 A huge collection of SVG logos <http://svgporn.com/>
 * [alrra/browser-logos](https://github.com/alrra/browser-logos) ⭐ 6,044 | 🐛 10 | 📅 2025-10-13 High resolution web browser logos
 * [kogg/instant-logos](https://github.com/kogg/instant-logos) ⚠️ Archived All the logos of instantlogosearch.com <http://instantlogosearch.com/>
 * [larsenwork/web.svg.min](https://github.com/larsenwork/web.svg.min) ⭐ 386 | 🐛 6 | 🌐 HTML | 📅 2017-02-18 Vector icons, badges, flags etc. über optimised for web use.
@@ -90,11 +90,11 @@
 
 ### UI
 
-* [Inter](https://github.com/rsms/inter) ⭐ 19,990 | 🐛 148 | 🌐 Python | 📅 2024-11-19 The Inter UI font family <http://rsms.me/inter/> :+1:
-* [IBM Plex](https://github.com/IBM/type) ⭐ 11,725 | 🐛 85 | 🌐 CSS | 📅 2026-10-16
+* [Inter](https://github.com/rsms/inter) ⭐ 19,992 | 🐛 148 | 🌐 Python | 📅 2024-11-19 The Inter UI font family <http://rsms.me/inter/> :+1:
+* [IBM Plex](https://github.com/IBM/type) ⭐ 11,727 | 🐛 87 | 🌐 CSS | 📅 2026-10-16
 * [Fira (FirefoxOS)](https://github.com/mozilla/Fira) ⚠️ Archived Mozilla's new typeface, used in Firefox OS
 * [Public Sans](https://github.com/uswds/public-sans) ⭐ 4,753 | 🐛 50 | 🌐 Shell | 📅 2026-10-01
-* [iA Writer Duospace](https://github.com/iaolo/iA-Fonts) ⭐ 4,184 | 🐛 12 | 📅 2026-10-02
+* [iA Writer Duospace](https://github.com/iaolo/iA-Fonts) ⭐ 4,185 | 🐛 12 | 📅 2026-10-02
 * [Roboto (Android)](https://github.com/google/roboto) ⚠️ Archived Googles's UI font used in Android
 * [Salesforce Sans](https://github.com/salesforce-ux/design-system/tree/master/assets/fonts) ⚠️ Archived
 * [SanFrancisco (MacOS|iOS|WatchOS)](https://github.com/AppleDesignResources/SanFranciscoFont) ⭐ 1,089 | 🐛 7 | 📅 2017-03-01 / [Updated version](https://github.com/Grawl/SanFranciscoFont) ⭐ 4 | 🐛 0 | 📅 2017-03-01 ([from apple](https://developer.apple.com/fonts/)) The Apple's UI font used in the Apple Watch, iOS 9, and OS X El Capitan.
@@ -106,7 +106,7 @@
 ### Sans serif
 
 * [18F/18franklin](https://github.com/18F/18franklin) ⭐ 4,753 | 🐛 50 | 🌐 Shell | 📅 2026-10-01
-* [adobe-fonts/source-sans-pro](https://github.com/adobe-fonts/source-sans-pro) ⭐ 3,774 | 🐛 41 | 🌐 CSS | 📅 2025-10-28
+* [adobe-fonts/source-sans-pro](https://github.com/adobe-fonts/source-sans-pro) ⭐ 3,773 | 🐛 41 | 🌐 CSS | 📅 2025-10-28
 * [RedHatBrand/overpass](https://github.com/RedHatBrand/overpass) ⭐ 2,100 | 🐛 46 | 🌐 Makefile | 📅 2023-07-20
 * [larsenwork/Gidole](https://github.com/larsenwork/Gidole) ⭐ 1,900 | 🐛 22 | 🌐 Shell | 📅 2022-01-01
 * [Space Grotesk](https://github.com/floriankarsten/space-grotesk) ⭐ 1,839 | 🐛 15 | 🌐 Shell | 📅 2023-03-12 :+1:
@@ -121,7 +121,7 @@
 * [impallari/Libre-Franklin](https://github.com/impallari/Libre-Franklin) ⭐ 426 | 🐛 10 | 🌐 Shell | 📅 2025-09-02
 * [impallari/Raleway](https://github.com/impallari/Raleway) ⭐ 406 | 🐛 26 | 📅 2020-11-06
 * [theleagueof/orbitron](https://github.com/theleagueof/orbitron) ⭐ 290 | 🐛 6 | 📅 2024-02-19
-* [Inclusive Sans](https://github.com/LivKing/Inclusive-Sans) ⭐ 266 | 🐛 11 | 🌐 Python | 📅 2025-02-21 A text font designed for accessibility and readability. [More info](https://www.oliviaking.com/inclusive-sans)
+* [Inclusive Sans](https://github.com/LivKing/Inclusive-Sans) ⭐ 267 | 🐛 11 | 🌐 Python | 📅 2025-02-21 A text font designed for accessibility and readability. [More info](https://www.oliviaking.com/inclusive-sans)
 * [Techna Sans](https://github.com/carlenlund/techna-sans) ⭐ 253 | 🐛 5 | 📅 2019-08-19
 * [Violet Sans](https://github.com/violetoffice/violet_sans) ⭐ 242 | 🐛 4 | 📅 2020-01-14
 * [Unbounded](https://github.com/w3f/unbounded) ⭐ 202 | 🐛 6 | 📅 2023-04-05 Open source, freely available and on-chain funded font. :+1:
@@ -151,13 +151,13 @@
 
 * [adobe-fonts/source-serif-pro](https://github.com/adobe-fonts/source-serif-pro) ⭐ 2,406 | 🐛 44 | 🌐 CSS | 📅 2026-10-06
 * [edwardtufte/et-book](https://github.com/edwardtufte/et-book) ⭐ 1,437 | 🐛 18 | 🌐 HTML | 📅 2022-03-07
-* [georgd/EB-Garamond](https://github.com/georgd/EB-Garamond) ⭐ 1,078 | 🐛 82 | 🌐 HTML | 📅 2024-03-16
-* [undercasetype/Frances](https://github.com/undercasetype/Fraunces) ⭐ 777 | 🐛 38 | 🌐 Python | 📅 2026-02-11 :+1:
+* [georgd/EB-Garamond](https://github.com/georgd/EB-Garamond) ⭐ 1,079 | 🐛 82 | 🌐 HTML | 📅 2024-03-16
+* [undercasetype/Frances](https://github.com/undercasetype/Fraunces) ⭐ 778 | 🐛 38 | 🌐 Python | 📅 2026-02-11 :+1:
 * [CatharsisFonts/Cormorant](https://github.com/CatharsisFonts/Cormorant) ⭐ 645 | 🐛 22 | 🌐 Python | 📅 2026-10-06
 * [clauseggers/Playfair-Display](https://github.com/clauseggers/Playfair-Display) ⭐ 603 | 🐛 1 | 🌐 HTML | 📅 2026-03-20
-* [skosch/Crimson](https://github.com/skosch/Crimson) ⭐ 566 | 🐛 59 | 🌐 HTML | 📅 2019-12-18
+* [skosch/Crimson](https://github.com/skosch/Crimson) ⭐ 567 | 🐛 59 | 🌐 HTML | 📅 2019-12-18
   * [Fonthausen/CrimsonPro](https://github.com/Fonthausen/CrimsonPro) ⭐ 343 | 🐛 0 | 🌐 Shell | 📅 2026-10-08 :+1: - A professionally produced redesign
-* [uplaod/YoungSerif](https://github.com/uplaod/YoungSerif) ⭐ 479 | 🐛 0 | 🌐 Python | 📅 2026-05-19
+* [uplaod/YoungSerif](https://github.com/uplaod/YoungSerif) ⭐ 480 | 🐛 0 | 🌐 Python | 📅 2026-05-19
 * [mozilla/zilla-slab](https://github.com/mozilla/zilla-slab) ⭐ 459 | 🐛 31 | 🌐 Shell | 📅 2023-06-06
 * [klepas/open-baskerville](https://github.com/klepas/open-baskerville) ⭐ 392 | 🐛 11 | 🌐 Ruby | 📅 2022-08-12
 * [impallari/Libre-Baskerville](https://github.com/impallari/Libre-Baskerville) ⭐ 274 | 🐛 7 | 🌐 HTML | 📅 2025-10-16
@@ -183,23 +183,23 @@
 
 ### Monospaced
 
-* [tonsky/FiraCode](https://github.com/tonsky/FiraCode) ⭐ 82,129 | 🐛 428 | 🌐 Clojure | 📅 2026-07-28 Monospaced font with programming ligatures
-* [Cascadia Code](https://github.com/microsoft/cascadia-code) ⭐ 27,945 | 🐛 163 | 🌐 Python | 📅 2025-03-06 Monospaced font that includes programming ligatures and is designed to en
+* [tonsky/FiraCode](https://github.com/tonsky/FiraCode) ⭐ 82,132 | 🐛 428 | 🌐 Clojure | 📅 2026-07-28 Monospaced font with programming ligatures
+* [Cascadia Code](https://github.com/microsoft/cascadia-code) ⭐ 27,946 | 🐛 163 | 🌐 Python | 📅 2025-03-06 Monospaced font that includes programming ligatures and is designed to en
   ce the modern look and feel of the Windows Terminal.
-* [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) ⭐ 20,458 | 🐛 88 | 🌐 CSS | 📅 2025-10-28 Monospaced font family for user interface and coding environments
+* [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) ⭐ 20,457 | 🐛 88 | 🌐 CSS | 📅 2025-10-28 Monospaced font family for user interface and coding environments
 * [source-foundry/Hack](https://github.com/source-foundry/Hack) ⭐ 17,376 | 🐛 155 | 🌐 Shell | 📅 2022-11-21 A typeface designed for source code
 * [Intel One Mono](https://github.com/intel/intel-one-mono) ⭐ 10,188 | 🐛 18 | 📅 2026-10-13 Expressive monospaced font family that’s built with clarity, legibility, and the needs of developers in mind.
 * [larsenwork/monoid](https://github.com/larsenwork/monoid) ⭐ 7,952 | 🐛 77 | 🌐 Python | 📅 2020-10-26 Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt.
-* [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) ⭐ 7,467 | 🐛 72 | 🌐 Python | 📅 2026-03-15 A font family with a great monospaced variant for programmers
-* [Fantasque Sans](https://github.com/belluzj/fantasque-sans) ⭐ 7,467 | 🐛 72 | 🌐 Python | 📅 2026-03-15 A font family with a great monospaced variant for programmers.
+* [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) ⭐ 7,468 | 🐛 72 | 🌐 Python | 📅 2026-03-15 A font family with a great monospaced variant for programmers
+* [Fantasque Sans](https://github.com/belluzj/fantasque-sans) ⭐ 7,468 | 🐛 72 | 🌐 Python | 📅 2026-03-15 A font family with a great monospaced variant for programmers.
 * [i-tu/Hasklig](https://github.com/i-tu/Hasklig) ⭐ 5,710 | 🐛 46 | 🌐 Python | 📅 2022-02-19 A code font with monospaced ligatures
 * [Hasklig](https://github.com/i-tu/Hasklig) ⭐ 5,710 | 🐛 46 | 🌐 Python | 📅 2022-02-19 Hasklig - a code font with monospaced ligatures
-* [madmalik/mononoki](https://github.com/madmalik/mononoki) ⭐ 4,641 | 🐛 15 | 📅 2025-08-04 A programming typeface
-* [Victor Mono](https://github.com/rubjo/victor-mono) ⭐ 3,823 | 🐛 7 | 🌐 Vue | 📅 2026-07-18 A free programming font with cursive italics and ligatures.
-* [0xProto](https://github.com/0xType/0xProto) ⭐ 2,942 | 🐛 15 | 🌐 Python | 📅 2026-03-21 A programming font focused on source code legibility
+* [madmalik/mononoki](https://github.com/madmalik/mononoki) ⭐ 4,642 | 🐛 15 | 📅 2025-08-04 A programming typeface
+* [Victor Mono](https://github.com/rubjo/victor-mono) ⭐ 3,825 | 🐛 7 | 🌐 Vue | 📅 2026-07-18 A free programming font with cursive italics and ligatures.
+* [0xProto](https://github.com/0xType/0xProto) ⭐ 2,941 | 🐛 15 | 🌐 Python | 📅 2026-03-21 A programming font focused on source code legibility
 * [andreberg/Meslo-Font](https://github.com/andreberg/Meslo-Font) ⭐ 2,743 | 🐛 25 | 📅 2019-01-22 Customized version of Apple's Menlo font.
 * [Martian mono](https://github.com/evilmartians/mono) ⭐ 2,742 | 🐛 9 | 📅 2026-07-23 Free and open-source monospaced font from Evil Martians :+1:
-* [Lilex](https://github.com/mishamyrt/Lilex) ⭐ 1,787 | 🐛 7 | 🌐 Astro | 📅 2026-10-12 Open source programming font
+* [Lilex](https://github.com/mishamyrt/Lilex) ⭐ 1,786 | 🐛 7 | 🌐 Astro | 📅 2026-10-12 Open source programming font
 * [JuliaMono](https://github.com/cormullion/juliamono) ⭐ 1,700 | 🐛 25 | 🌐 CSS | 📅 2026-07-18 A monospaced font with reasonable Unicode support.
 * [Myna](https://github.com/sayyadirfanali/Myna) ⭐ 1,650 | 🐛 6 | 🌐 Python | 📅 2026-06-17 A monospace typeface designed for symbol-rich programming
 * [fragment-mono](https://github.com/weiweihuanghuang/fragment-mono) ⭐ 942 | 🐛 4 | 🌐 HTML | 📅 2026-04-03 Helvetica Monospace Coding Font
@@ -216,9 +216,9 @@
 
 ### Combined
 
-* [be5invis/Iosevka](https://github.com/be5invis/Iosevka) ⭐ 23,148 | 🐛 96 | 🌐 JavaScript | 📅 2026-10-23 Versatile typeface for code, from code.
+* [be5invis/Iosevka](https://github.com/be5invis/Iosevka) ⭐ 23,159 | 🐛 96 | 🌐 JavaScript | 📅 2026-10-24 Versatile typeface for code, from code.
 * [googlei18n/noto-fonts](https://github.com/googlei18n/noto-fonts) ⚠️ Archived
-* [khaledhosny/libertinus](https://github.com/khaledhosny/libertinus) ⭐ 1,435 | 🐛 166 | 🌐 Spline Font Database | 📅 2024-10-02
+* [khaledhosny/libertinus](https://github.com/khaledhosny/libertinus) ⭐ 1,436 | 🐛 166 | 🌐 Spline Font Database | 📅 2024-10-02
 * [Reddit Sans](https://github.com/reddit/redditsans) ⭐ 466 | 🐛 5 | 🌐 Pug | 📅 2025-06-09 "The typeface of the internet" with Sans, Sans Condensed and Mono versions.
 * [Inria](https://github.com/BlackFoundryCom/InriaFonts) ⭐ 409 | 🐛 6 | 🌐 HTML | 📅 2021-12-08
 * [Instrument Sans](https://github.com/Instrument/instrument-sans) ⭐ 343 | 🐛 4 | 📅 2023-06-14 :+1: & [Instrument Serif](https://github.com/Instrument/instrument-serif) ⭐ 371 | 🐛 4 | 📅 2023-04-26.
@@ -235,7 +235,7 @@
 * [theleagueof/chunk](https://github.com/theleagueof/chunk) ⭐ 274 | 🐛 1 | 📅 2021-03-03
 * [Chomsky](https://github.com/ctrlcctrlv/chomsky) ⭐ 267 | 🐛 9 | 🌐 Python | 📅 2021-12-06 A font in the style of the New York Times masthead
 * [Alpha Lyrae](https://github.com/vegaprotocol/alpha-lyrae) ⭐ 232 | 🐛 0 | 📅 2022-09-23 The Vega font - uses Ligatures & Contextual Alternates to add a little glitch to your world
-* [uplaod/FuturaRenner](https://github.com/uplaod/FuturaRenner) ⭐ 181 | 🐛 0 | 🌐 Python | 📅 2025-02-14
+* [uplaod/FuturaRenner](https://github.com/uplaod/FuturaRenner) ⭐ 182 | 🐛 0 | 🌐 Python | 📅 2025-02-14
 * [theleagueof/blackout](https://github.com/theleagueof/blackout) ⭐ 148 | 🐛 3 | 📅 2024-02-19
 * [Sprat](https://github.com/EthanNakache/Sprat-type) ⭐ 98 | 🐛 2 | 📅 2020-12-27 A display typeface
 * [theleagueof/knewave](https://github.com/theleagueof/knewave) ⭐ 85 | 🐛 4 | 📅 2024-02-19
