@@ -19,7 +19,7 @@
             "open_issues": 507,
             "owner": "feathericons",
             "repo": "feather",
-            "stars": 26040,
+            "stars": 26039,
             "topics": [
               "icons",
               "javascript",
@@ -40,11 +40,11 @@
             "id": 243546335,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T16:18:32Z",
-            "open_issues": 93,
+            "last_commit": "2026-11-13T23:33:20Z",
+            "open_issues": 98,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 22618,
+            "stars": 22643,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -110,7 +110,7 @@
             "open_issues": 57,
             "owner": "akveo",
             "repo": "eva-icons",
-            "stars": 8811,
+            "stars": 8810,
             "topics": [
               "icon",
               "icon-font",
@@ -166,7 +166,7 @@
             "open_issues": 18,
             "owner": "mikolajdobrucki",
             "repo": "ikonate",
-            "stars": 3587,
+            "stars": 3588,
             "topics": [
               "icon-pack",
               "icon-set",
@@ -232,7 +232,7 @@
             "open_issues": 1042,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26211,
+            "stars": 26215,
             "topics": [
               "brand",
               "brand-assets",
@@ -407,7 +407,7 @@
                 "open_issues": 149,
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 20060,
+                "stars": 20064,
                 "topics": [
                   "design",
                   "font",
@@ -432,7 +432,7 @@
                 "open_issues": 86,
                 "owner": "IBM",
                 "repo": "plex",
-                "stars": 11771,
+                "stars": 11773,
                 "topics": [
                   "design",
                   "font",
@@ -457,7 +457,7 @@
                 "open_issues": 0,
                 "owner": "mozilla",
                 "repo": "Fira",
-                "stars": 5129,
+                "stars": 5128,
                 "topics": [
                   "abandoned",
                   "unmaintained"
@@ -509,7 +509,7 @@
                 "open_issues": 13,
                 "owner": "iaolo",
                 "repo": "iA-Fonts",
-                "stars": 4194,
+                "stars": 4195,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -654,7 +654,7 @@
                 "open_issues": 41,
                 "owner": "adobe-fonts",
                 "repo": "source-sans",
-                "stars": 3784,
+                "stars": 3783,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -703,7 +703,7 @@
                 "open_issues": 22,
                 "owner": "larsenwork",
                 "repo": "Gidole",
-                "stars": 1897,
+                "stars": 1896,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -802,7 +802,7 @@
                 "open_issues": 20,
                 "owner": "erikdkennedy",
                 "repo": "figtree",
-                "stars": 846,
+                "stars": 848,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1636,7 +1636,7 @@
                 "open_issues": 8,
                 "owner": "productiontype",
                 "repo": "Newsreader",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1943,7 +1943,7 @@
                 "open_issues": 431,
                 "owner": "tonsky",
                 "repo": "FiraCode",
-                "stars": 82191,
+                "stars": 82192,
                 "topics": [
                   "font",
                   "ligatures",
@@ -1989,7 +1989,7 @@
                 "open_issues": 88,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20458,
+                "stars": 20457,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -2017,7 +2017,7 @@
                 "open_issues": 155,
                 "owner": "source-foundry",
                 "repo": "Hack",
-                "stars": 17391,
+                "stars": 17393,
                 "topics": [
                   "developer",
                   "developer-tools",
@@ -2046,7 +2046,7 @@
                 "open_issues": 14,
                 "owner": "intel",
                 "repo": "intel-one-mono",
-                "stars": 10259,
+                "stars": 10258,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2067,7 +2067,7 @@
                 "open_issues": 77,
                 "owner": "larsenwork",
                 "repo": "monoid",
-                "stars": 7952,
+                "stars": 7953,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2088,7 +2088,7 @@
                 "open_issues": 72,
                 "owner": "belluzj",
                 "repo": "fantasque-sans",
-                "stars": 7478,
+                "stars": 7477,
                 "topics": [
                   "font",
                   "monospace-font"
@@ -2112,7 +2112,7 @@
                 "open_issues": 72,
                 "owner": "belluzj",
                 "repo": "fantasque-sans",
-                "stars": 7478,
+                "stars": 7477,
                 "topics": [
                   "font",
                   "monospace-font"
@@ -2313,7 +2313,7 @@
                 "open_issues": 8,
                 "owner": "mishamyrt",
                 "repo": "Lilex",
-                "stars": 1800,
+                "stars": 1802,
                 "topics": [
                   "font",
                   "ligatures",
@@ -2388,7 +2388,7 @@
                 "open_issues": 5,
                 "owner": "weiweihuanghuang",
                 "repo": "fragment-mono",
-                "stars": 946,
+                "stars": 945,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2409,7 +2409,7 @@
                 "open_issues": 4,
                 "owner": "sursly",
                 "repo": "sono",
-                "stars": 558,
+                "stars": 559,
                 "topics": [
                   "font",
                   "typography",
@@ -2530,7 +2530,7 @@
                 "open_issues": 96,
                 "owner": "be5invis",
                 "repo": "Iosevka",
-                "stars": 23241,
+                "stars": 23246,
                 "topics": [
                   "font",
                   "iosevka",
@@ -2844,7 +2844,7 @@
                 "open_issues": 0,
                 "owner": "vegaprotocol",
                 "repo": "alpha-lyrae",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "font",
                   "typeface",
@@ -3117,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:08:33.210Z",
+    "last_updated": "2026-11-14T01:48:44.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of open resources for web designers",
@@ -3125,7 +3125,7 @@
       "id": 50173266,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-27T06:37:07Z",
+      "last_commit": "2026-11-13T14:46:04Z",
       "open_issues": 1,
       "owner": "oscarotero",
       "repo": "awesome-design",
@@ -3139,7 +3139,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "299bd1bd5635d825fab01575336e721e00298fe6",
+    "original_repository_sha": "fdc8a0f59248b78aad21f3fd5c06b51e659f7578",
     "enhanced_repository": "enhansome/enhansome-design",
     "enhanced_repository_description": null,
     "title": "Awesome A collection of open source resources for web designers with stars"
