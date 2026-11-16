@@ -19,7 +19,7 @@
             "open_issues": 507,
             "owner": "feathericons",
             "repo": "feather",
-            "stars": 26039,
+            "stars": 26041,
             "topics": [
               "icons",
               "javascript",
@@ -41,10 +41,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-14T14:32:21Z",
-            "open_issues": 97,
+            "open_issues": 98,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 22662,
+            "stars": 22683,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -77,10 +77,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
-            "open_issues": 1141,
+            "open_issues": 1142,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11317,
+            "stars": 11318,
             "topics": [
               "android",
               "bootstrap",
@@ -110,7 +110,7 @@
             "open_issues": 57,
             "owner": "akveo",
             "repo": "eva-icons",
-            "stars": 8809,
+            "stars": 8810,
             "topics": [
               "icon",
               "icon-font",
@@ -228,11 +228,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-15T00:33:36Z",
-            "open_issues": 1044,
+            "last_commit": "2026-11-15T13:18:41Z",
+            "open_issues": 1048,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26220,
+            "stars": 26224,
             "topics": [
               "brand",
               "brand-assets",
@@ -273,7 +273,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15411,
+            "stars": 15429,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -301,7 +301,7 @@
             "open_issues": 67,
             "owner": "gilbarbara",
             "repo": "logos",
-            "stars": 6855,
+            "stars": 6857,
             "topics": [
               "logos",
               "svg"
@@ -407,7 +407,7 @@
                 "open_issues": 149,
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 20070,
+                "stars": 20071,
                 "topics": [
                   "design",
                   "font",
@@ -432,7 +432,7 @@
                 "open_issues": 86,
                 "owner": "IBM",
                 "repo": "plex",
-                "stars": 11773,
+                "stars": 11776,
                 "topics": [
                   "design",
                   "font",
@@ -481,7 +481,7 @@
                 "open_issues": 53,
                 "owner": "uswds",
                 "repo": "public-sans",
-                "stars": 4756,
+                "stars": 4757,
                 "topics": [
                   "font",
                   "geometric",
@@ -509,7 +509,7 @@
                 "open_issues": 13,
                 "owner": "iaolo",
                 "repo": "iA-Fonts",
-                "stars": 4196,
+                "stars": 4197,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -530,7 +530,7 @@
                 "open_issues": 156,
                 "owner": "googlefonts",
                 "repo": "roboto-2",
-                "stars": 3826,
+                "stars": 3825,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -551,7 +551,7 @@
                 "open_issues": 41,
                 "owner": "salesforce-ux",
                 "repo": "design-system",
-                "stars": 3701,
+                "stars": 3700,
                 "topics": [
                   "css",
                   "design-systems",
@@ -626,7 +626,7 @@
                 "open_issues": 53,
                 "owner": "uswds",
                 "repo": "public-sans",
-                "stars": 4756,
+                "stars": 4757,
                 "topics": [
                   "font",
                   "geometric",
@@ -724,7 +724,7 @@
                 "open_issues": 15,
                 "owner": "floriankarsten",
                 "repo": "space-grotesk",
-                "stars": 1844,
+                "stars": 1843,
                 "topics": [
                   "font",
                   "latin",
@@ -823,7 +823,7 @@
                 "open_issues": 52,
                 "owner": "jpt",
                 "repo": "barlow",
-                "stars": 836,
+                "stars": 838,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1396,7 +1396,7 @@
                 "open_issues": 39,
                 "owner": "undercasetype",
                 "repo": "Fraunces",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "font",
                   "google-fonts",
@@ -1717,10 +1717,10 @@
                 "language": "HTML",
                 "license": "OFL-1.1",
                 "last_commit": "2026-01-02T07:51:22Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "clauseggers",
                 "repo": "Inknut-Antiqua",
-                "stars": 145,
+                "stars": 146,
                 "topics": [
                   "devanagiri",
                   "font",
@@ -1943,7 +1943,7 @@
                 "open_issues": 431,
                 "owner": "tonsky",
                 "repo": "FiraCode",
-                "stars": 82195,
+                "stars": 82197,
                 "topics": [
                   "font",
                   "ligatures",
@@ -1968,7 +1968,7 @@
                 "open_issues": 165,
                 "owner": "microsoft",
                 "repo": "cascadia-code",
-                "stars": 27963,
+                "stars": 27961,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1989,7 +1989,7 @@
                 "open_issues": 88,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20458,
+                "stars": 20459,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -2017,7 +2017,7 @@
                 "open_issues": 155,
                 "owner": "source-foundry",
                 "repo": "Hack",
-                "stars": 17393,
+                "stars": 17394,
                 "topics": [
                   "developer",
                   "developer-tools",
@@ -2046,7 +2046,7 @@
                 "open_issues": 14,
                 "owner": "intel",
                 "repo": "intel-one-mono",
-                "stars": 10257,
+                "stars": 10258,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2211,7 +2211,7 @@
                 "open_issues": 7,
                 "owner": "rubjo",
                 "repo": "victor-mono",
-                "stars": 3833,
+                "stars": 3834,
                 "topics": [
                   "coding-font",
                   "cursive",
@@ -2245,7 +2245,7 @@
                 "open_issues": 15,
                 "owner": "0xType",
                 "repo": "0xProto",
-                "stars": 2968,
+                "stars": 2967,
                 "topics": [
                   "design",
                   "font",
@@ -2271,7 +2271,7 @@
                 "open_issues": 9,
                 "owner": "evilmartians",
                 "repo": "mono",
-                "stars": 2748,
+                "stars": 2749,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2313,7 +2313,7 @@
                 "open_issues": 8,
                 "owner": "mishamyrt",
                 "repo": "Lilex",
-                "stars": 1802,
+                "stars": 1801,
                 "topics": [
                   "font",
                   "ligatures",
@@ -2339,7 +2339,7 @@
                 "open_issues": 25,
                 "owner": "cormullion",
                 "repo": "juliamono",
-                "stars": 1706,
+                "stars": 1707,
                 "topics": [
                   "font",
                   "fonts",
@@ -2627,7 +2627,7 @@
                 "open_issues": 6,
                 "owner": "BlackFoundryCom",
                 "repo": "InriaFonts",
-                "stars": 409,
+                "stars": 408,
                 "topics": [
                   "design",
                   "fonts",
@@ -2656,7 +2656,7 @@
                 "open_issues": 5,
                 "owner": "Instrument",
                 "repo": "instrument-sans",
-                "stars": 350,
+                "stars": 351,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2788,27 +2788,6 @@
             },
             {
               "node_type": "item",
-              "title": "theleagueof/chunk",
-              "description": "theleagueof/chunk",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An ultra-bold, ultra-awesome slab serif typeface.",
-                "homepage": "http://theleagueofmoveabletype.com/chunk",
-                "id": 1801414,
-                "language": null,
-                "license": null,
-                "last_commit": "2021-03-03T20:23:07Z",
-                "open_issues": 1,
-                "owner": "theleagueof",
-                "repo": "chunk",
-                "stars": 275,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:49:41.916Z"
-            },
-            {
-              "node_type": "item",
               "title": "Chomsky",
               "description": "A font in the style of the New York Times masthead",
               "children": [],
@@ -2824,6 +2803,27 @@
                 "owner": "ctrlcctrlv",
                 "repo": "chomsky",
                 "stars": 273,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T05:49:41.916Z"
+            },
+            {
+              "node_type": "item",
+              "title": "theleagueof/chunk",
+              "description": "theleagueof/chunk",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An ultra-bold, ultra-awesome slab serif typeface.",
+                "homepage": "http://theleagueofmoveabletype.com/chunk",
+                "id": 1801414,
+                "language": null,
+                "license": null,
+                "last_commit": "2021-03-03T20:23:07Z",
+                "open_issues": 1,
+                "owner": "theleagueof",
+                "repo": "chunk",
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -3117,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T01:19:27.324Z",
+    "last_updated": "2026-11-16T01:24:00.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of open resources for web designers",
