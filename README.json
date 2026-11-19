@@ -19,7 +19,7 @@
             "open_issues": 507,
             "owner": "feathericons",
             "repo": "feather",
-            "stars": 26042,
+            "stars": 26043,
             "topics": [
               "icons",
               "javascript",
@@ -41,10 +41,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-16T12:07:14Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 22709,
+            "stars": 22713,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -80,7 +80,7 @@
             "open_issues": 1144,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11317,
+            "stars": 11318,
             "topics": [
               "android",
               "bootstrap",
@@ -229,10 +229,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T13:25:43Z",
-            "open_issues": 1050,
+            "open_issues": 1054,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26235,
+            "stars": 26236,
             "topics": [
               "brand",
               "brand-assets",
@@ -298,7 +298,7 @@
             "language": "SVG",
             "license": "CC0-1.0",
             "last_commit": "2026-11-11T13:00:51Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "gilbarbara",
             "repo": "logos",
             "stars": 6858,
@@ -407,7 +407,7 @@
                 "open_issues": 149,
                 "owner": "rsms",
                 "repo": "inter",
-                "stars": 20090,
+                "stars": 20094,
                 "topics": [
                   "design",
                   "font",
@@ -428,11 +428,11 @@
                 "id": 105702631,
                 "language": "CSS",
                 "license": "OFL-1.1",
-                "last_commit": "2026-11-12T13:43:42Z",
+                "last_commit": "2026-11-18T18:40:03Z",
                 "open_issues": 86,
                 "owner": "IBM",
                 "repo": "plex",
-                "stars": 11778,
+                "stars": 11783,
                 "topics": [
                   "design",
                   "font",
@@ -481,7 +481,7 @@
                 "open_issues": 53,
                 "owner": "uswds",
                 "repo": "public-sans",
-                "stars": 4759,
+                "stars": 4760,
                 "topics": [
                   "font",
                   "geometric",
@@ -509,7 +509,7 @@
                 "open_issues": 13,
                 "owner": "iaolo",
                 "repo": "iA-Fonts",
-                "stars": 4200,
+                "stars": 4201,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -626,7 +626,7 @@
                 "open_issues": 53,
                 "owner": "uswds",
                 "repo": "public-sans",
-                "stars": 4759,
+                "stars": 4760,
                 "topics": [
                   "font",
                   "geometric",
@@ -654,7 +654,7 @@
                 "open_issues": 41,
                 "owner": "adobe-fonts",
                 "repo": "source-sans",
-                "stars": 3783,
+                "stars": 3782,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -724,7 +724,7 @@
                 "open_issues": 15,
                 "owner": "floriankarsten",
                 "repo": "space-grotesk",
-                "stars": 1843,
+                "stars": 1844,
                 "topics": [
                   "font",
                   "latin",
@@ -844,7 +844,7 @@
                 "open_issues": 3,
                 "owner": "supernotes",
                 "repo": "sn-pro",
-                "stars": 776,
+                "stars": 777,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1176,6 +1176,43 @@
             },
             {
               "node_type": "item",
+              "title": "Secuela",
+              "description": "defharo/secuela-variable",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Secuela Sans & Condensed - Variable Font OFL",
+                "homepage": "https://fontlibrary.org/en/font/secuela-variable",
+                "id": 157793649,
+                "language": null,
+                "license": "OFL-1.1",
+                "last_commit": "2018-11-24T20:29:54Z",
+                "open_issues": 1,
+                "owner": "defharo",
+                "repo": "secuela-variable",
+                "stars": 87,
+                "topics": [
+                  "bitcoin",
+                  "condensed",
+                  "latin-extended-a",
+                  "neo-gothic",
+                  "neo-grotesque",
+                  "open-source",
+                  "opentype-fonts",
+                  "sans-serif",
+                  "small-capital",
+                  "spain",
+                  "truetype",
+                  "ttfautohint",
+                  "typeface",
+                  "variable-fonts",
+                  "webfonts"
+                ]
+              },
+              "first_seen": "2026-08-28T05:49:41.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "Wonder Unit",
               "description": "wonderunit/font-wonder-unit",
               "children": [],
@@ -1196,43 +1233,6 @@
                   "fonts",
                   "storyboard",
                   "typeface"
-                ]
-              },
-              "first_seen": "2026-08-28T05:49:41.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Secuela",
-              "description": "defharo/secuela-variable",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Secuela Sans & Condensed - Variable Font OFL",
-                "homepage": "https://fontlibrary.org/en/font/secuela-variable",
-                "id": 157793649,
-                "language": null,
-                "license": "OFL-1.1",
-                "last_commit": "2018-11-24T20:29:54Z",
-                "open_issues": 1,
-                "owner": "defharo",
-                "repo": "secuela-variable",
-                "stars": 86,
-                "topics": [
-                  "bitcoin",
-                  "condensed",
-                  "latin-extended-a",
-                  "neo-gothic",
-                  "neo-grotesque",
-                  "open-source",
-                  "opentype-fonts",
-                  "sans-serif",
-                  "small-capital",
-                  "spain",
-                  "truetype",
-                  "ttfautohint",
-                  "typeface",
-                  "variable-fonts",
-                  "webfonts"
                 ]
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1939,11 +1939,11 @@
                 "id": 26500787,
                 "language": "Clojure",
                 "license": "OFL-1.1",
-                "last_commit": "2026-07-28T17:02:16Z",
-                "open_issues": 431,
+                "last_commit": "2026-11-18T21:00:47Z",
+                "open_issues": 430,
                 "owner": "tonsky",
                 "repo": "FiraCode",
-                "stars": 82209,
+                "stars": 82207,
                 "topics": [
                   "font",
                   "ligatures",
@@ -1968,7 +1968,7 @@
                 "open_issues": 166,
                 "owner": "microsoft",
                 "repo": "cascadia-code",
-                "stars": 27960,
+                "stars": 27962,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -1989,7 +1989,7 @@
                 "open_issues": 88,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20461,
+                "stars": 20462,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -2017,7 +2017,7 @@
                 "open_issues": 155,
                 "owner": "source-foundry",
                 "repo": "Hack",
-                "stars": 17397,
+                "stars": 17399,
                 "topics": [
                   "developer",
                   "developer-tools",
@@ -2046,7 +2046,7 @@
                 "open_issues": 14,
                 "owner": "intel",
                 "repo": "intel-one-mono",
-                "stars": 10259,
+                "stars": 10261,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2088,7 +2088,7 @@
                 "open_issues": 72,
                 "owner": "belluzj",
                 "repo": "fantasque-sans",
-                "stars": 7477,
+                "stars": 7478,
                 "topics": [
                   "font",
                   "monospace-font"
@@ -2112,7 +2112,7 @@
                 "open_issues": 72,
                 "owner": "belluzj",
                 "repo": "fantasque-sans",
-                "stars": 7477,
+                "stars": 7478,
                 "topics": [
                   "font",
                   "monospace-font"
@@ -2245,7 +2245,7 @@
                 "open_issues": 15,
                 "owner": "0xType",
                 "repo": "0xProto",
-                "stars": 2970,
+                "stars": 2971,
                 "topics": [
                   "design",
                   "font",
@@ -2271,7 +2271,7 @@
                 "open_issues": 9,
                 "owner": "evilmartians",
                 "repo": "mono",
-                "stars": 2751,
+                "stars": 2752,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2527,10 +2527,10 @@
                 "language": "JavaScript",
                 "license": "OFL-1.1",
                 "last_commit": "2026-11-18T01:42:36Z",
-                "open_issues": 96,
+                "open_issues": 95,
                 "owner": "be5invis",
                 "repo": "Iosevka",
-                "stars": 23273,
+                "stars": 23289,
                 "topics": [
                   "font",
                   "iosevka",
@@ -2581,7 +2581,7 @@
                 "open_issues": 168,
                 "owner": "alerque",
                 "repo": "libertinus",
-                "stars": 1454,
+                "stars": 1455,
                 "topics": [
                   "font",
                   "math",
@@ -2706,10 +2706,10 @@
                 "language": null,
                 "license": "OFL-1.1",
                 "last_commit": "2021-12-19T01:29:00Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "anewtypeofinterference",
                 "repo": "Optician-Sans",
-                "stars": 707,
+                "stars": 708,
                 "topics": [
                   "font",
                   "opticians",
@@ -2731,7 +2731,7 @@
                 "language": "HTML",
                 "license": "OFL-1.1",
                 "last_commit": "2024-06-17T18:12:29Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "arrowtype",
                 "repo": "shantell-sans",
                 "stars": 674,
@@ -2760,7 +2760,7 @@
                 "open_issues": 5,
                 "owner": "figs-lab",
                 "repo": "datalegreya",
-                "stars": 599,
+                "stars": 600,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:41.916Z"
@@ -2869,7 +2869,7 @@
                 "open_issues": 0,
                 "owner": "noirblancrouge",
                 "repo": "Formera",
-                "stars": 182,
+                "stars": 183,
                 "topics": [
                   "font",
                   "fonts",
@@ -3117,7 +3117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:08:05.225Z",
+    "last_updated": "2026-11-19T02:49:27.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of open resources for web designers",
